@@ -23,6 +23,7 @@ traits:
   detail: Distinct products ultimately report to one owner
 source_refs:
 - match-group-inc-2024-business-overview-e59d445
+- match-group-inc-2026-annual-report-form-10-k-ec972bb
 related:
 - '03'
 - '05'

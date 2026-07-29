@@ -24,6 +24,7 @@ traits:
   detail: Membership alone could indicate sexual-minority status
 source_refs:
 - datatilsynet-2021-december-13-administrative-fine-to-grindr-llc-2350025
+- datatilsynet-2023-record-fine-in-grindr-case-confirmed
 related:
 - '17'
 - '19'

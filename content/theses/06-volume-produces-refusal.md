@@ -24,6 +24,7 @@ traits:
   detail: Repeated choice produced a persistent rejection mind-set
 source_refs:
 - pronk-t-m-denissen-j-j-a-2020-a-6b683af
+- d-angelo-j-d-toma-c-l-2017-plenty-of-fish-choice-overload
 related:
 - '05'
 - '07'

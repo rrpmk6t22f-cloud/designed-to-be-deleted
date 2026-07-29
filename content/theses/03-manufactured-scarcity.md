@@ -23,6 +23,7 @@ traits:
   detail: A paid tier restores the removed rewind
 source_refs:
 - match-group-inc-2026-annual-report-form-10-k-ec972bb
+- tinder-n-d-subscriptions-and-premium-features
 related:
 - '02'
 - '04'

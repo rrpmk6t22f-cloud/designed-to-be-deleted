@@ -22,6 +22,8 @@ traits:
   detail: Current response distributions have not been published
 source_refs:
 - rudder-c-2014-dataclysm-who-we-are-when-we-52d2f5e
+- henderson-t-2020-june-removing-the-ethnicity-filter-is-ffa2d2a
+- feliciano-c-robnett-b-komaie-g-2009-gendered-racial-exclusion
 related:
 - '25'
 - '27'

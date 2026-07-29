@@ -24,6 +24,7 @@ traits:
   detail: Adjusted margin reported for the fourth quarter
 source_refs:
 - match-group-inc-2026-fourth-quarter-and-full-year-399e2e7
+- match-group-inc-2026-annual-report-form-10-k-ec972bb
 related:
 - '31'
 - '02'

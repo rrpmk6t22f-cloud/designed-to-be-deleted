@@ -24,6 +24,7 @@ traits:
   detail: Later institutional seed rounds expanded the company
 source_refs:
 - rakowski-k-2019-lex-mobile-application-f1400f1
+- crook-j-2020-lex-raises-1-5-million
 related:
 - '24'
 - '26'

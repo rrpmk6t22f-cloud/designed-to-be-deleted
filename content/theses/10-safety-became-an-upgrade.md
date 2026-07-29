@@ -24,6 +24,7 @@ traits:
   detail: Background checks were later offered as paid functionality
 source_refs:
 - flynn-h-cousins-k-naismith-picciani-e-2019-december-c7216c1
+- match-group-2022-garbo-background-checks-on-tinder
 related:
 - '09'
 - '11'

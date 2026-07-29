@@ -25,6 +25,7 @@ traits:
   detail: Commercial returns remain concentrated in safer markets
 source_refs:
 - grindr-inc-2025-quarterly-report-form-10-q-period-137c240
+- grindr-inc-2026-february-26-fourth-quarter-and-full-722f26c
 related:
 - '14'
 - '16'

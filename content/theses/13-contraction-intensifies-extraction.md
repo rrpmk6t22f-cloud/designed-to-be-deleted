@@ -25,6 +25,8 @@ traits:
   detail: Approximate share of the workforce removed
 source_refs:
 - bumble-inc-2025-current-report-form-8-k-june-e839137
+- bumble-inc-2025-first-quarter-results
+- bumble-inc-2025-quarterly-report-march-31
 related:
 - '12'
 - '14'

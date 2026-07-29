@@ -24,6 +24,7 @@ traits:
   detail: Date the labour-board complaint was issued
 source_refs:
 - national-labor-relations-board-2024-november-1-complaint-against-2cbb540
+- communications-workers-of-america-2024-grindr-nlrb-statement
 related:
 - '21'
 - '23'

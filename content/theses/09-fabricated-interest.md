@@ -25,6 +25,7 @@ traits:
   detail: Period covered by the Federal Trade Commission allegation
 source_refs:
 - federal-trade-commission-2025-august-12-match-group-to-3be7ff1
+- federal-trade-commission-2019-complaint-against-match-group
 related:
 - '08'
 - '10'

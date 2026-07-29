@@ -7,13 +7,6 @@
     </div>
     <h3>{{ .Title }}</h3>
     <p class="card-summary">{{ .Params.summary }}</p>
-    {{ with .Params.traits }}
-    <dl class="traits">
-      {{ range first 3 . }}
-        <div><dt>{{ .label }}</dt><dd>{{ .value }}</dd></div>
-      {{ end }}
-    </dl>
-    {{ end }}
     <span class="read-more">Read full thesis</span>
   </a>
 </article>
