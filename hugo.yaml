@@ -8,7 +8,7 @@ disableKinds:
   - term
 params:
   description: "A critical manifesto about dating, platforms, desire, and capitalism."
-  author: "Designed to Be Deleted"
+  author: "Slavin Rudakov"
   accent: "#f4e900"
 markup:
   goldmark:
