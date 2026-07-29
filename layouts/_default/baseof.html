@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="{{ site.Language.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0a0a0a">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} — {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+  <script src="{{ "js/main.js" | relURL }}" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="wordmark" href="{{ site.Home.RelPermalink }}" aria-label="Designed to Be Deleted, home">Designed to Be Deleted</a>
+    <nav aria-label="Primary">
+      <a href="{{ site.Home.RelPermalink }}#theses">31 theses</a>
+      <a href="{{ site.Home.RelPermalink }}#about">About</a>
+    </nav>
+  </header>
+  <main id="main">{{ block "main" . }}{{ end }}</main>
+  <footer class="site-footer">
+    <p>Designed to Be Deleted</p>
+    <p>A critical reader on intimacy, markets, and platform power.</p>
+    <a href="#main">Back to top ↑</a>
+  </footer>
+</body>
+</html>
+

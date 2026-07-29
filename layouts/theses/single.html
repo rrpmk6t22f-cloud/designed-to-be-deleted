@@ -1,0 +1,62 @@
+{{ define "main" }}
+<article class="thesis-page">
+  <header class="thesis-hero">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="{{ site.Home.RelPermalink }}#theses">All theses</a><span aria-hidden="true">/</span><span>{{ printf "%02d" .Params.number }}</span>
+    </nav>
+    <p class="thesis-number">Thesis {{ printf "%02d" .Params.number }} / 31</p>
+    <h1>{{ .Title }}</h1>
+    <p class="dek">{{ .Params.summary }}</p>
+    {{ with .Params.traits }}
+    <dl class="traits traits-large">
+      {{ range . }}<div><dt>{{ .label }}</dt><dd>{{ .value }}</dd></div>{{ end }}
+    </dl>
+    {{ end }}
+  </header>
+
+  <div class="article-layout">
+    <aside class="article-aside">
+      <p class="eyebrow">On this page</p>
+      <nav aria-label="On this page">
+        <a href="#argument">Argument</a>
+        {{ with .Params.citations }}<a href="#sources">Sources</a>{{ end }}
+        <a href="#related">Related</a>
+      </nav>
+    </aside>
+    <div class="article-main">
+      <section id="argument" class="prose">
+        {{ .Content }}
+      </section>
+      {{ with .Params.citations }}
+      <section class="sources" id="sources" aria-labelledby="sources-title">
+        <h2 id="sources-title">Citations &amp; further reading</h2>
+        <ol>
+          {{ range . }}
+          <li>
+            {{ if .url }}<a href="{{ .url }}" rel="noopener noreferrer">{{ .label }}</a>{{ else }}<span>{{ .label }}</span>{{ end }}
+            {{ with .note }}<p>{{ . }}</p>{{ end }}
+          </li>
+          {{ end }}
+        </ol>
+      </section>
+      {{ end }}
+    </div>
+  </div>
+
+  <section class="related" id="related" aria-labelledby="related-title">
+    <h2 id="related-title">Related theses</h2>
+    <div class="related-grid">
+      {{ $related := .Params.related }}
+      {{ range where site.RegularPages "Section" "theses" }}
+        {{ if in $related (printf "%02d" .Params.number) }}{{ partial "thesis-card.html" . }}{{ end }}
+      {{ end }}
+    </div>
+  </section>
+
+  <nav class="pager" aria-label="Thesis navigation">
+    {{ with .PrevInSection }}<a href="{{ .RelPermalink }}"><span>← Previous</span><strong>{{ printf "%02d" .Params.number }}. {{ .Title }}</strong></a>{{ else }}<span></span>{{ end }}
+    {{ with .NextInSection }}<a class="next" href="{{ .RelPermalink }}"><span>Next →</span><strong>{{ printf "%02d" .Params.number }}. {{ .Title }}</strong></a>{{ end }}
+  </nav>
+</article>
+{{ end }}
+

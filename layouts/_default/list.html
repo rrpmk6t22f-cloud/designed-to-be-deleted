@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="theses" aria-labelledby="section-title">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Designed to Be Deleted</p>
+      <h1 id="section-title">{{ .Title }}</h1>
+    </div>
+    <p>{{ len .Pages }} entries</p>
+  </div>
+  <div class="thesis-grid">
+    {{ range .Pages.ByWeight }}
+      {{ partial "thesis-card.html" . }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+

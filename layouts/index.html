@@ -1,0 +1,42 @@
+{{ define "main" }}
+<section class="hero" aria-labelledby="hero-title">
+  <p class="eyebrow">A manifesto in 31 profiles</p>
+  <h1 id="hero-title">Designed<br>to Be <em>Deleted</em></h1>
+  <div class="hero-copy">
+    <p>What happens when intimacy is organized like a market?</p>
+    <a class="button" href="#theses">Browse the theses ↓</a>
+  </div>
+</section>
+
+<section class="intro" id="about" aria-labelledby="about-title">
+  <p class="section-number" aria-hidden="true">00</p>
+  <div>
+    <h2 id="about-title">Dating is not outside capitalism.</h2>
+    <p>It borrows its interfaces, incentives, measurements, and promises. This reader treats each claim as a profile to encounter—not a person to consume.</p>
+    <p>Thirty-one theses: one for each price Tinder was found charging for the same subscription inside a single country.</p>
+  </div>
+</section>
+
+<section class="theses" id="theses" aria-labelledby="theses-title">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">The thesis selector</p>
+      <h2 id="theses-title">All 31 profiles</h2>
+    </div>
+    <p><span id="result-count">31</span> visible</p>
+  </div>
+  <div class="filters" role="search">
+    <label for="thesis-search">Find a thesis</label>
+    <div class="search-row">
+      <input id="thesis-search" type="search" placeholder="Search title, proposition, or trait…" autocomplete="off">
+      <button id="clear-search" type="button">Clear</button>
+    </div>
+  </div>
+  <div class="thesis-grid" id="thesis-grid">
+    {{ range (where site.RegularPages "Section" "theses").ByParam "number" }}
+      {{ partial "thesis-card.html" . }}
+    {{ end }}
+  </div>
+  <p class="empty-state" id="empty-state" hidden>No thesis matches that search. Try another word.</p>
+</section>
+{{ end }}

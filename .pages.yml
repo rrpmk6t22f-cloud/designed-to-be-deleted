@@ -1,0 +1,41 @@
+media: static/uploads
+content:
+  - name: theses
+    label: Theses
+    type: collection
+    path: content/theses
+    filename: "{fields.number}-{primary}.md"
+    view:
+      fields: [number, title, draft]
+      primary: title
+      sort: [number]
+      default:
+        sort: number
+        order: asc
+    fields:
+      - { name: number, label: Number, type: number, required: true }
+      - { name: title, label: Thesis title, type: string, required: true }
+      - { name: summary, label: Short proposition, type: text, required: true }
+      - name: traits
+        label: Traits
+        type: object
+        list: true
+        fields:
+          - { name: label, label: Label, type: string }
+          - { name: value, label: Value, type: string }
+      - name: citations
+        label: Citations
+        type: object
+        list: true
+        fields:
+          - { name: label, label: Source label, type: string }
+          - { name: url, label: URL, type: string }
+          - { name: note, label: Note, type: text }
+      - name: related
+        label: Related thesis numbers
+        type: string
+        list: true
+      - { name: description, label: SEO description, type: text }
+      - { name: draft, label: Draft, type: boolean, default: false }
+      - { name: body, label: Full thesis, type: rich-text, required: true }
+

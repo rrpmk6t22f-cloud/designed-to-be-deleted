@@ -1,0 +1,8 @@
+public/
+resources/_gen/
+.hugo_build.lock
+.hugo-cache/
+.DS_Store
+node_modules/
+work/
+outputs/

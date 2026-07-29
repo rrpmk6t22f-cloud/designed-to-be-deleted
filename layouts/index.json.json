@@ -1,0 +1,6 @@
+[
+{{- range $index, $page := (where site.RegularPages "Section" "theses").ByParam "number" -}}
+{{- if $index }},{{ end }}
+{"number": {{ $page.Params.number }}, "title": {{ $page.Title | jsonify }}, "summary": {{ $page.Params.summary | jsonify }}, "url": {{ $page.RelPermalink | jsonify }}}
+{{- end -}}
+]

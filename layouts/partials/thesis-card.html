@@ -1,0 +1,18 @@
+<article class="thesis-card" data-search="{{ lower (printf "%s %s %v" .Title .Params.summary .Params.traits) }}">
+  <a href="{{ .RelPermalink }}" aria-label="Read thesis {{ printf "%02d" .Params.number }}: {{ .Title }}">
+    <div class="card-top">
+      <span class="card-number">{{ printf "%02d" .Params.number }}</span>
+      <span class="card-part">{{ .Params.part }}</span>
+    </div>
+    <h3>{{ .Title }}</h3>
+    <p class="card-summary">{{ .Params.summary }}</p>
+    {{ with .Params.traits }}
+    <dl class="traits">
+      {{ range first 3 . }}
+        <div><dt>{{ .label }}</dt><dd>{{ .value }}</dd></div>
+      {{ end }}
+    </dl>
+    {{ end }}
+    <span class="read-more">Read full thesis</span>
+  </a>
+</article>

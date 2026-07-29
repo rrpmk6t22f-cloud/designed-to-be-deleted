@@ -1,0 +1,24 @@
+baseURL: "https://rrpmk6t22f-cloud.github.io/designed-to-be-deleted/"
+languageCode: en
+title: Designed to Be Deleted
+enableRobotsTXT: true
+summaryLength: 32
+disableKinds:
+  - taxonomy
+  - term
+params:
+  description: "A critical manifesto about dating, platforms, desire, and capitalism."
+  author: "Designed to Be Deleted"
+  accent: "#f4e900"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
