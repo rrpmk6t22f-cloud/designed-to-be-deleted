@@ -33,11 +33,15 @@ related:
 ---
 ## Context
 
-Matches accumulate. Meetings remain optional.
+The visible goal of a dating app is connection outside the app. Yet the immediate rewards it provides—likes, matches, messages and notifications—are delivered inside the interface and can be accumulated without an encounter ever taking place.
+
+This creates two possible destinations: meeting another person, or returning to the system that continually confirms the possibility of meeting someone.
 
 ## Argument
 
 A psychoanalytic reading of the libidinal economy of dating platforms concludes that their function is the exploitation of desire and its redirection toward the app itself and its accumulation of matches, rather than toward any meeting outside it. Illouz had already described internet dating as importing a market mentality into intimate life, one that unleashes fantasy while inhibiting romantic feeling. Bandinelli and Gandini describe users operating as small brands managing assets in a social relationship market.
+
+The argument is interpretive rather than a claim that users never meet. Matches can lead to relationships while the interface also rewards collecting options, refining a profile and monitoring attention. The platform becomes more than a route to intimacy: it becomes a recurring environment in which desire is measured, displayed and managed.
 
 ## Evidence
 

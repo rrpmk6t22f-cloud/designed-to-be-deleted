@@ -29,11 +29,15 @@ related:
 ---
 ## Context
 
-The dark pattern is prohibited. The like limit remains.
+Regulators increasingly recognise manipulative interfaces, addictive design and obstructive cancellation as consumer-protection problems. Naming the mechanism creates legal language for harms that were previously described only as frustrating design.
+
+Recognition is not the same as removal. Rules must be interpreted, enforced and translated into product changes, while companies can redesign a mechanism faster than a case moves through institutions.
 
 ## Argument
 
 Article 25 of the Digital Services Act prohibits dark-pattern interfaces. The European Parliament adopted a resolution on addictive design in December 2023 by 545 votes to 12. The Commission's fitness check on consumer law estimated harm from unfair digital practices at no less than €7.9 billion a year and opened consultation on a Digital Fairness Act in 2025, with a proposal expected in late 2026. In the United States, the Federal Trade Commission's click-to-cancel rule was vacated by the Eighth Circuit in July 2025 on procedural grounds. Every mechanism named in these thirty-one theses has been described in a statute, a resolution or a complaint. The like limits are still there this morning.
+
+The gap is partly one of scope: a general prohibition must still be connected to a specific interface and evidenced as manipulation rather than ordinary product design. It is also a gap of speed and remedy. The law can identify a pattern while the commercial incentive that produced it remains active, leaving enforcement to catch up one design decision at a time.
 
 ## Evidence
 

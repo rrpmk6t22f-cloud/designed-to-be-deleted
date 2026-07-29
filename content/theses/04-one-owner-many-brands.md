@@ -30,11 +30,15 @@ related:
 ---
 ## Context
 
-Changing apps may only move you to another line in the same earnings report.
+Dating applications present themselves as distinct communities: serious, casual, queer, religious, older, local or selective. At the ownership level, many of those apparently competing choices belong to the same portfolio.
+
+Portfolio ownership is not inherently deceptive, but it narrows the meaning of consumer choice. A user may change brand, interface and audience while remaining inside the same company's data, pricing and shareholder strategy.
 
 ## Argument
 
 Tinder, Hinge, Match, Meetic, OkCupid, Plenty of Fish, Pairs, Azar, Hakuna, OurTime, BLK, Chispa, Archer, The League, and since May 2025 the sapphic app HER. Match Group reports in four segments; industry trackers have counted forty-five services under the same roof. Uninstalling one application and installing another most often moves a user between line items in a single earnings release.
+
+The consequence is market power over experimentation itself. A large portfolio can absorb emerging formats and identity-specific communities rather than compete with them from outside. What looks like a diverse marketplace at the app-store level can therefore remain concentrated at the level where capital, governance and acquisition decisions are made.
 
 ## Evidence
 

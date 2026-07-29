@@ -33,11 +33,15 @@ related:
 ---
 ## Context
 
-The audience shrinks. The company cuts costs. The business searches for higher yield.
+When growth slows, a platform company has several options: improve the product, find new audiences, charge existing users more or reduce costs. Bumble's contraction shows these responses occurring together.
+
+The people affected are not only users. Workers absorb part of the adjustment when declining engagement and market valuation are answered through restructuring.
 
 ## Argument
 
 Bumble reported first-quarter 2025 revenue of $247 million, down eight percent, with app paying users at 2.7 million and a user base that fell from roughly fifty-eight million in 2023 to fifty million in 2024. Whitney Wolfe Herd returned as chief executive in March 2025 and announced the elimination of around thirty percent of staff, some 240 roles, in June, saving approximately forty million dollars annually. The company's market value fell from the seven-to-fifteen-billion-dollar range at its 2021 listing to roughly half a billion by mid-2025.
+
+These figures do not establish that every price or product decision followed directly from the layoffs. They reveal the pressure under which those decisions are made. Once audience expansion stops carrying the story, profitability depends more heavily on monetisation per payer, operational cuts and a renewed claim that the product can deliver better outcomes.
 
 ## Evidence
 

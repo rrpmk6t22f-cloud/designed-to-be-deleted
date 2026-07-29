@@ -31,11 +31,15 @@ related:
 ---
 ## Context
 
-No breach was required. The signals were commercially available.
+Public discussion often treats exposure as the result of hacking. Location-based advertising data creates another route: signals collected during ordinary app use can be purchased, combined and attributed without breaking into the platform.
+
+Anonymisation becomes fragile when a device repeatedly appears at a home, workplace and identifiable event. The pattern can name the person even when the original dataset does not.
 
 ## Argument
 
 In July 2021 the Catholic outlet <em>The Pillar</em> reported that commercially available app signal data showed a device correlated to Monsignor Jeffrey Burrill emitting Grindr signals on a near-daily basis through parts of 2018, 2019 and 2020, at his office, his residence and at conference events. He resigned as general secretary of the United States Conference of Catholic Bishops. Grindr denied being the source and called the report a homophobic witch hunt. The data was purchased on the open market, which is the point: no breach occurred, and none was necessary.
+
+The reporting and its targeting raised serious ethical objections, and Grindr disputed any role in supplying the data. Those disputes do not remove the systemic lesson: commercially available signals can be used to reconstruct intimate behaviour. Privacy cannot depend on an attacker lacking access when access is already a market product.
 
 ## Evidence
 

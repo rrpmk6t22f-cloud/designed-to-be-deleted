@@ -31,11 +31,15 @@ related:
 ---
 ## Context
 
-Doing better on one mechanism does not make a platform clean.
+A counterexample is useful because it proves alternatives exist, not because it identifies a morally pure company. Better privacy practice can coexist with security failures, limited remedies or other forms of exclusion.
+
+Evaluating platforms mechanism by mechanism avoids replacing criticism with brand loyalty. The question is not which company is good, but which specific decisions reduce or reproduce harm.
 
 ## Argument
 
 Jack'd, acquired by Perry Street in 2019, paid $240,000 to approximately 7,000 users in a settlement with the New York Attorney General over a security flaw that left private photographs accessible. Scruff and Jack'd disabled their ethnicity filters in June 2020, following Grindr, and critics noted at the time that removing a filter is the minimum available action rather than an intervention in the sorting itself. The independent alternative is better on the specific mechanisms named here and is not thereby clean.
+
+The settlement concerns conduct that preceded or overlapped the acquisition, while the later privacy choices deserve recognition on their own terms. Holding both facts together prevents a common analytical mistake: treating one improvement as evidence that the whole system has been repaired.
 
 ## Evidence
 

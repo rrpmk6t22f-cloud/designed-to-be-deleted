@@ -33,11 +33,15 @@ related:
 ---
 ## Context
 
-Loneliness is not caused by dating apps. It is the condition against which they are priced.
+Loneliness is a public-health and social condition shaped by many forces: housing, work, migration, discrimination, family structure and the erosion of shared institutions. It cannot be attributed to a single category of app.
+
+Dating platforms enter this condition with a commercial offer. They sell access, visibility and hope to people for whom connection may feel urgent, making loneliness part of the market environment even when the product did not create it.
 
 ## Argument
 
 The World Health Organization's Commission on Social Connection reports that one in six people worldwide is affected by loneliness, associated with an estimated 871,000 deaths each year, approximately one hundred every hour. Prevalence is highest among those aged thirteen to twenty-nine and highest again in low-income countries, twenty-four percent against eleven. The United States Surgeon General places the mortality risk alongside smoking fifteen cigarettes a day. In Spain, twenty percent of adults live with unwanted loneliness and 13.5 percent have done so for two years or more, rising to 34.6 percent among those aged eighteen to twenty-four, at an estimated national cost of €14,141 million, 1.17 percent of gross domestic product. No dating platform caused this. Every dating platform is priced against it.
+
+The distinction prevents an easy but misleading accusation. The critique is not that subscription dating manufactured a global epidemic. It is that the ability to pay can mediate access to relief from a deeply felt social condition, while product design can repeatedly convert that condition into attention and recurring revenue.
 
 ## Evidence
 

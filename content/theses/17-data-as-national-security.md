@@ -30,11 +30,15 @@ related:
 ---
 ## Context
 
-The data was considered too sensitive to remain under foreign ownership.
+Dating-app data is often discussed as a consumer-privacy issue. The forced sale of Grindr showed that governments can also treat it as strategic intelligence.
+
+Sexual orientation, health information, location and relationship behaviour may create risks of surveillance or coercion, particularly when linked to officials, military personnel or other sensitive roles.
 
 ## Argument
 
 Beijing Kunlun Tech acquired a controlling interest in Grindr in 2016 for $93 million and full ownership by 2018. In 2019 the Committee on Foreign Investment in the United States determined that Chinese ownership of the application constituted a national security risk, on the reasoning that its data on sexual orientation, sexual behaviour and health was too sensitive to sit under foreign control, and ordered divestiture. The sale to San Vicente Acquisition closed on 10 June 2020 at approximately $608.5 million. Reuters subsequently reported that the approved buyer had financial and personal links to the seller.
+
+Changing ownership addressed who could control the dataset, not why such a sensitive dataset existed or how much of it should be retained. The case therefore solved a jurisdictional problem while leaving the underlying data architecture largely outside public scrutiny.
 
 ## Evidence
 

@@ -30,11 +30,15 @@ related:
 ---
 ## Context
 
-Real relationships emerge from systems that still reward continued use.
+Criticism becomes inaccurate if it denies the relationships that dating platforms make possible. For many people—and especially for people with smaller local dating pools—the application is genuine social infrastructure.
+
+Effectiveness and exploitation are not opposites. A system can create valuable connections while monetising repeated search, unequal visibility or prolonged uncertainty.
 
 ## Argument
 
 Thirty-nine percent of heterosexual couples in the United States met online as of 2017, against twenty-two percent in 2009, with online meeting overtaking introduction through friends around 2013. Among same-sex couples formed in 2017 the figure reaches sixty-five percent, the highest of any group measured, which is the finding that matters most: the platforms deliver the greatest value precisely where the offline population is thinnest and hardest to find. Real relationships come out of these systems. An industry can produce them at that scale and remain structured so that the slower, partial, recurring outcome is the more valuable one, and the two facts are compatible.
+
+This thesis is the guardrail for the rest of the project. The evidence of harm does not erase utility, and evidence of utility does not answer questions about pricing, ranking, privacy or safety. A credible critique must hold the successful relationship and the extractive mechanism in view at the same time.
 
 ## Evidence
 

@@ -31,11 +31,15 @@ related:
 ---
 ## Context
 
-The disclosure is not only what you said. It is that you were there.
+Some platforms reveal sensitive information simply through membership. A record that identifies someone as a Grindr user can communicate sexual orientation even if no profile text, photograph or private message is included.
+
+That makes ordinary advertising identifiers unusually consequential. The category of service supplies meaning that the individual data field may not state explicitly.
 
 ## Argument
 
 Norway's data protection authority fined Grindr NOK 65 million in December 2021 for sharing user data with advertising partners without valid consent, upheld on appeal in 2023 and by the Norwegian courts in October 2025. The regulator's reasoning is the operative part: data revealing that someone is a Grindr user strongly indicates that they belong to a sexual minority. What was disclosed was not what a person said on the platform. It was that the person was on it.
+
+This reasoning widens the definition of sensitive data from content to context. Removing a field labelled “sexual orientation” is insufficient if an identifier still carries the fact of membership across the advertising ecosystem. Protection must follow the inference that a recipient can make, not only the label attached to the transmitted field.
 
 ## Evidence
 

@@ -32,11 +32,15 @@ related:
 ---
 ## Context
 
-HIV status travelled with location, device and identity data.
+An HIV-status field can support disclosure between users and reduce stigma when people control how it is shared. Its meaning changes when the same information enters an analytics pipeline.
+
+Combined with location, device identifiers or email, health information is no longer an isolated profile preference. It can become attributable data about a person's body, movements and identity.
 
 ## Argument
 
 In April 2018 the Norwegian research foundation SINTEF, commissioned by the Swedish broadcaster SVT, found that Grindr was transmitting users' HIV status and last-tested date to the analytics vendors Apptimize and Localytics, bundled with GPS position, phone identifier and email address. The same analysis found tribe, sexuality, relationship status and ethnicity passing to advertising companies, in some cases unencrypted, across a base of around 3.6 million daily users. The chief technology officer described the arrangement as standard practice in the mobile app ecosystem. Senators Markey and Blumenthal wrote to all three companies the following day.
+
+“Standard practice” is precisely the concern. Mobile analytics conventions developed for clicks, devices and product experiments can be inappropriate when the product contains sexual orientation, health status and precise location. The sensitivity comes not only from each field but from their ability to identify a person when combined.
 
 ## Evidence
 

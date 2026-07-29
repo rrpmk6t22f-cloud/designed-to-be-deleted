@@ -31,11 +31,15 @@ related:
 ---
 ## Context
 
-No swipe. No ranked grid. Text before photographs.
+The face grid and swipe gesture can feel like the natural form of digital dating because they dominate the market. They are design conventions, not technical necessities.
+
+Lex began from a different cultural archive: queer personal advertisements in which language, intention and specificity came before a ranked stream of photographs.
 
 ## Argument
 
 Lex was launched in November 2019 by Kell Rakowski, out of an Instagram account that reproduced the personal advertisements from the back of <em>On Our Backs</em>, the queer women's magazine published between 1984 and 2006. It is text first and photographs second: no swipe, no grid, no ranked queue of faces. It was funded initially by a $40,000 Kickstarter raised from the community that would use it, and later by seed rounds of $1.5 million and $5.6 million against a team of eleven. It is small, and its smallness is a design position rather than a failure to scale.
+
+Lex is not proof that text-first design eliminates exclusion, harassment or commercial pressure. It demonstrates a wider field of possibility. When another interaction model can support discovery, the dominant grid must be evaluated as a choice with social effects rather than accepted as the inevitable shape of dating online.
 
 ## Evidence
 

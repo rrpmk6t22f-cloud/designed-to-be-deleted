@@ -32,11 +32,15 @@ related:
 ---
 ## Context
 
-Desirability became an internal score. The swipe became intellectual property.
+Two invisible systems organise the familiar swipe interface. One ranks people and decides who is likely to see whom; the other turns the interaction pattern itself into corporate intellectual property.
+
+Users experience a simple sequence of profiles, but that sequence is neither neutral nor fully explained. It is produced by classification, prediction and product decisions that determine exposure before any person makes a choice.
 
 ## Argument
 
 In January 2016 Tinder confirmed to <em>Fast Company</em> that it maintained an internal desirability score; Sean Rad described two and a half months of work on the algorithm, and Jonathan Badeen compared the mechanic to Warcraft ladders, where beating a high-rated opponent yields more points. In March 2019 the company stated that Elo was old news and that its technology no longer relied on it, describing a newer system weighted on engagement signals. Separately, United States Patent 9,733,811 B2 assigns the double-opt-in swipe to Match Group, which litigated it against Bumble in 2018. The scoring was retired, the disclosure was never introduced, and the motion a person makes with their thumb while looking for someone to love is an asset defended in court.
+
+The issue is not that one historical score must still be operating. It is that ranking continues while its criteria remain unavailable for meaningful inspection. Replacing Elo with engagement signals changes the method, not the asymmetry: the platform can evaluate and distribute users, while users cannot see how that distribution shapes their apparent desirability or opportunity.
 
 ## Evidence
 

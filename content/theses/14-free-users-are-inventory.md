@@ -33,11 +33,15 @@ related:
 ---
 ## Context
 
-Fewer than nine in every hundred active users pay. Everyone still produces value.
+Most Grindr users do not buy a subscription, but they still populate the grid, create the possibility of a match and generate attention. Without them, the paid product would have far less value.
+
+“Free” therefore describes the price charged to a user, not the user's economic role. Non-paying participation supplies both the social inventory that subscribers browse and an audience that can be sold to advertisers.
 
 ## Argument
 
 Grindr reported full-year 2025 revenue of $439.9 million, up twenty-eight percent, with net income of $95 million and adjusted EBITDA of $195.6 million, against average monthly active users of fifteen million and average paying users of approximately 1.3 million. Fewer than nine in a hundred active users pay anything. Indirect revenue, meaning advertising, rose from 14.5 percent to 16.1 percent of total revenue across the first nine months of the year. The company introduced 2026 guidance above $528 million and announced a $400 million increase to its buyback programme, extended to March 2029.
+
+Calling users “inventory” is deliberately uncomfortable, but it names the accounting logic rather than their human value. A free user can be non-revenue in subscription metrics while remaining essential to network density, advertising reach and the conversion of somebody else into a payer.
 
 ## Evidence
 

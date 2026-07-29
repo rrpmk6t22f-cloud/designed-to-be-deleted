@@ -31,11 +31,15 @@ related:
 ---
 ## Context
 
-A personal history returned as 800 pages of platform memory.
+A dating app is used in fragments: an opening on the train, a swipe at night, a message later deleted or forgotten. The platform can retain those fragments as a continuous behavioural record.
+
+What feels temporary to the user may therefore become durable institutional memory. The imbalance is not only how much is collected, but how difficult it is for a person to perceive the collection while creating it.
 
 ## Argument
 
 Judith Duportail exercised her right of access under European data law and received 800 pages: 920 openings of the application, 1,700 messages, 870 matches accumulated since December 2013. The data scientist Olivier Keyes, reviewing the file, said he was horrified and not remotely surprised. Duportail later published a book-length analysis of a Match patent she reads as encoding a sense of destiny into the matching logic, a reading the company disputes.
+
+The access request made an invisible archive legible. Each individual record may appear ordinary, but together they describe rhythms of attention, desire and rejection over years. A right to download the archive is valuable; it does not by itself make the scale, retention or interpretation of that archive understandable at the moment of use.
 
 ## Evidence
 

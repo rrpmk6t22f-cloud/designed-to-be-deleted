@@ -31,11 +31,15 @@ related:
 ---
 ## Context
 
-Fewer paying users. More revenue extracted from each one.
+Dating platforms once described growth mainly through scale: more users, more matches and more paying subscribers. Match Group's 2025 results show a different route to growth. The paying audience contracted, but the amount collected from each payer increased.
+
+That distinction matters because it changes what “growth” means. A platform can satisfy investors without expanding participation or producing more successful relationships; it can raise prices, promote higher tiers and sell more paid features to the people who remain.
 
 ## Argument
 
 Match Group closed 2025 with revenue of $3.487 billion against average payers of 14.165 million, down five percent year on year, at a revenue per payer of $20.09, up five percent. The fourth quarter sharpened it: payers 13.84 million, down five percent; revenue per payer $20.72, up seven percent; net income $210 million, up thirty-two percent; adjusted EBITDA margin forty-two percent. Tinder alone reported 8.77 million payers, down eight percent, at an operating margin close to fifty percent. The company returned $789 million in buybacks, ninety-five percent of free cash flow, plus $186 million in dividends.
+
+These figures do not prove that any individual user was deliberately kept single. They show something more limited and more concrete: declining payer numbers did not prevent higher revenue per payer, strong margins or large shareholder distributions. The commercial response to contraction was greater yield from each remaining subscriber.
 
 ## Evidence
 

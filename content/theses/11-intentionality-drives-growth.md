@@ -32,11 +32,15 @@ related:
 ---
 ## Context
 
-The promise of leaving the app has become one of its fastest-growing businesses.
+“Designed to be deleted” reframed a familiar contradiction as a brand promise: the app would be judged by relationships rather than endless use. That language now sits inside the growth strategy of the industry's largest portfolio.
+
+The shift is meaningful. It shows that users' dissatisfaction with pressure, ambiguity and perpetual swiping is not outside the market; it can be converted into a differentiated premium product.
 
 ## Argument
 
 Hinge, the brand marketed on the promise of its own deletion, reported fourth-quarter 2025 direct revenue of $186.5 million, up twenty-six percent, on 1.89 million payers, up seventeen percent, against a group target of one billion dollars in revenue by 2027. Hinge is also a named defendant in the addiction litigation. Under a new chief executive, Tinder has repositioned toward user outcomes, lower-pressure formats and in-person events, following a documented departure of younger users. The critique of the industry and the growth strategy of the industry currently share a vocabulary.
+
+This does not make intentional design insincere or ineffective. It shows that an exit-oriented promise can coexist with payer growth and ambitious revenue targets. A critique becomes commercially useful when it helps one brand distinguish itself without changing the portfolio's dependence on recurring revenue.
 
 ## Evidence
 

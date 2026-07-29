@@ -30,11 +30,15 @@ related:
 ---
 ## Context
 
-The menu disappeared. The distribution remained.
+An ethnicity filter makes racial selection explicit: the user chooses a category and removes people outside it. Disabling that control removes one direct instrument of exclusion.
+
+It does not remove the preferences, ranking signals or unequal response patterns already present in user behaviour. Sorting can continue through collective choices even when the menu no longer names race.
 
 ## Argument
 
 Every major platform disabled ethnicity filtering in 2020. The published response-rate analyses that OkCupid conducted on its own users, later collected by Christian Rudder, had already shown consistent penalties applied to Black users and particularly to Black women, and those patterns are produced by aggregated individual behaviour rather than by a drop-down menu. The filter was the visible instrument. The distribution it expressed remains in the data, and no company has published the distribution since.
+
+Platforms cannot compel attraction, but they do decide how behaviour is aggregated, ranked and made visible. Removing an explicit filter addresses what users can request; auditing outcomes would address what the system continues to distribute. Without current transparency, the public can see the policy change but not whether exposure became more equitable.
 
 ## Evidence
 

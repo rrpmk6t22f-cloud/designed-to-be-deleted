@@ -30,11 +30,15 @@ related:
 ---
 ## Context
 
-A successful relationship removes two potential subscribers.
+Dating applications promise an outcome that can make their service unnecessary. When two subscribers form a lasting relationship and leave, the platform may have succeeded for them while losing two recurring customers.
+
+This is not proof that platforms want relationships to fail. It is a structural tension between the user's desired endpoint and a subscription model that benefits from continued participation.
 
 ## Argument
 
 Two people who stay together cancel two subscriptions. Financial journalism has put the arithmetic bluntly: each successful match costs the platform not one customer but two. No Match Group executive has ever said this on the record, and this manifesto does not claim otherwise. The claim is narrower and harder to answer. A subscription business reporting payers, revenue per payer and churn as its primary disclosures is measuring retention, and retention and resolution point in opposite directions.
+
+The relevant question is therefore not whether an executive secretly opposes love. It is which outcomes the business can observe and reward. Time in the product, renewed subscriptions and purchases are legible revenue signals; a durable relationship formed after deletion is largely invisible. The measurable behaviour and the meaningful outcome are not the same thing.
 
 ## Evidence
 

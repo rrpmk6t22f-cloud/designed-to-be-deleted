@@ -30,11 +30,15 @@ related:
 ---
 ## Context
 
-One million people. One hundred and thirty-six euros.
+Dating profiles are written for a particular social setting: a person offers selected details in the hope of being seen by potential partners. Data brokerage removes that setting while preserving the information.
+
+The same photographs and descriptions then become a bulk dataset, priced by volume rather than by the trust or vulnerability involved in their creation.
 
 ## Argument
 
 Working with Tactical Tech, the Barcelona-based artist Joana Moll purchased approximately one million dating profiles from the broker USDate for €136. The package contained close to five million photographs alongside usernames, email addresses, nationality, gender, age, sexual orientation, stated interests, occupation, and physical and personality descriptions, drawn from platforms including Match, Tinder, Plenty of Fish and OkCupid. One hundred and thirty-six euros for one million people who had, in each case, been trying to be seen by exactly one.
+
+The project does not establish that every named platform directly sold the package. It demonstrates the downstream market that scraping, aggregation and brokerage can create. Consent to be discoverable by another dater is not consent to become a row in a dataset available to an unknown buyer.
 
 ## Evidence
 

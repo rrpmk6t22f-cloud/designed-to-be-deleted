@@ -31,11 +31,15 @@ related:
 ---
 ## Context
 
-The more profiles people see, the less likely they become to accept one.
+More choice is usually presented as an uncomplicated benefit. Dating interfaces operationalise that assumption by making another profile continuously available.
+
+Behavioural research suggests that repeated evaluation can change the evaluator. As the sequence grows, people may move from considering a possible connection to practising rejection as the default response.
 
 ## Argument
 
 Across three studies, the probability that a participant would accept a profile declined by an average of twenty-seven percent between the first option presented and the last, with objective quality held constant. The researchers named the effect a rejection mind-set. Women in the sample subsequently received fewer matches. The interface trains a disposition, and the disposition does not remain inside the interface.
+
+This does not mean every large pool produces the same outcome or that users should accept unsuitable matches. It means volume is an active design condition, not a neutral backdrop. An interface optimised for continuous evaluation can make selectivity self-reinforcing, reducing acceptance even when the quality of later options has not declined.
 
 ## Evidence
 

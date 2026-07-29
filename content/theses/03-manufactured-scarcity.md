@@ -30,11 +30,15 @@ related:
 ---
 ## Context
 
-The platform introduces the restriction. Then it sells its removal.
+Digital profiles are not a naturally scarce resource. The platform decides how many can be liked, which incoming likes remain hidden, whether a choice can be undone and how visible a profile will be.
+
+Once those limits exist, removing them becomes a product. The user is not only paying for additional capability; they are paying to escape a constraint designed into the free experience.
 
 ## Argument
 
 Daily like limits, concealed incoming likes, restricted rewinds, Boosts, Super Likes, Tinder Plus, Gold, Platinum and Select, Hinge Plus and HingeX. Every paid tier retails the suspension of a constraint the platform introduced. Nothing in the underlying technology requires that a user be shown that somebody likes them while being prevented from seeing who. The friction is an engineering decision with a price attached, and it is disclosed to shareholders as à-la-carte revenue.
+
+Scarcity can help manage spam or abusive use, so a limit is not automatically exploitative. The critical distinction is whether the restriction protects the community or primarily creates urgency and a conversion opportunity. When visibility, certainty and reversibility are separately monetised, the architecture of frustration becomes part of the revenue model.
 
 ## Evidence
 

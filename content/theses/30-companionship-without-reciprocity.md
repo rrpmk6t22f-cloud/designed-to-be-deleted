@@ -31,11 +31,15 @@ related:
 ---
 ## Context
 
-Companionship remains. Reciprocity disappears.
+Companion chatbots extend the market for mediated intimacy beyond finding another person. The product itself can perform attention, affirmation and romantic availability at any time.
+
+Unlike a human relationship, the interaction does not require mutual need, consent or compromise from another subject. That frictionless responsiveness can be comforting while also deepening dependence on a service controlled by a company.
 
 ## Argument
 
 Character.AI reports roughly twenty million monthly active users and claims an average of about two hours a day on its own definition of activity; Google licensed its technology for a reported $2.7 billion in August 2024. When Replika restricted romantic roleplay in February 2023, users who had maintained long attachments reacted with sufficient distress that subreddit moderators posted crisis resources, and the company restored the feature for accounts registered before 1 February. In October 2024 the mother of a fourteen-year-old boy filed a wrongful death action against Character Technologies; in May 2025 a federal judge allowed it to proceed, declining to treat the software as protected speech and treating it as a product instead. California's companion-chatbot statute took effect on 1 January 2026. Turkle described the illusion of companionship without the demands of friendship in 2011, and it is now a monthly subscription with a defence counsel.
+
+The pending litigation does not establish a final finding of liability, and chatbot use is not uniformly harmful. It does show why the category cannot be understood as mere entertainment. When users form durable attachments, a product update, moderation rule or subscription decision can alter an intimate relationship unilaterally.
 
 ## Evidence
 
