@@ -6,7 +6,6 @@ weight: 24
 part: "PART THREE — REFUSALS"
 summary: "Doing better on one mechanism does not make a platform clean."
 description: "Jack'd, acquired by Perry Street in 2019, paid $240,000 to approximately 7,000 users in a settlement with the New York Attorney General over a security flaw that left private photographs accessible."
-status: "SETTLED / CRITICALLY ANALYSED"
 draft: false
 traits:
   - label: "SETTLEMENT"
@@ -43,21 +42,12 @@ Jack'd, acquired by Perry Street in 2019, paid $240,000 to approximately 7,000 u
 
 ## Evidence
 
-### Settlement: $240K
-
-Settlement concerning exposure of users’ private photographs
-
-### Users: ~7K
-
-Approximate number of users affected by the flaw
-
-### Filters: Jun 2020
-
-Ethnicity filters disabled across both applications
-
-### Assessment: Partial
-
-An improvement on one mechanism, not absolution
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| SETTLEMENT | $240K | Settlement concerning exposure of users’ private photographs |
+| USERS | ~7K | Approximate number of users affected by the flaw |
+| FILTERS | Jun 2020 | Ethnicity filters disabled across both applications |
+| ASSESSMENT | Partial | An improvement on one mechanism, not absolution |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ Jack'd, acquired by Perry Street in 2019, paid $240,000 to approximately 7,000 u
 ## Implication
 
 Ethical refusal must be evaluated mechanism by mechanism, not treated as innocence.
-
-*Evidence status: SETTLED / CRITICALLY ANALYSED*

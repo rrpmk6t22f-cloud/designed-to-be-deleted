@@ -6,7 +6,6 @@ weight: 7
 part: "PART ONE — THE PORTFOLIO"
 summary: "Matches accumulate. Meetings remain optional."
 description: "A psychoanalytic reading of the libidinal economy of dating platforms concludes that their function is the exploitation of desire and its redirection toward the app itself and its accumulation of matches, rather than toward any meeting outside it."
-status: "SCHOLARLY INTERPRETATION"
 draft: false
 traits:
   - label: "PRIMARY LOOP"
@@ -46,21 +45,12 @@ A psychoanalytic reading of the libidinal economy of dating platforms concludes 
 
 ## Evidence
 
-### Primary Loop: Browse→match
-
-The core loop keeps users browsing and matching
-
-### Measured: Engagement
-
-Platform activity is measured as commercial engagement
-
-### Unmeasured: Not tracked
-
-Quality of connection is not a primary metric
-
-### User Role: Dual role
-
-The user operates as both product and customer
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| PRIMARY LOOP | Browse→match | The core loop keeps users browsing and matching |
+| MEASURED | Engagement | Platform activity is measured as commercial engagement |
+| UNMEASURED | Not tracked | Quality of connection is not a primary metric |
+| USER ROLE | Dual role | The user operates as both product and customer |
 
 ## Key finding
 
@@ -69,5 +59,3 @@ A psychoanalytic reading of the libidinal economy of dating platforms concludes 
 ## Implication
 
 Searching for a person can become attachment to the process of searching.
-
-*Evidence status: SCHOLARLY INTERPRETATION*

@@ -6,7 +6,6 @@ weight: 26
 part: "PART THREE — REFUSALS"
 summary: "The menu disappeared. The distribution remained."
 description: "Every major platform disabled ethnicity filtering in 2020."
-status: "PUBLISHED PLATFORM ANALYSIS"
 draft: false
 traits:
   - label: "VISIBLE FILTER"
@@ -40,21 +39,12 @@ Every major platform disabled ethnicity filtering in 2020. The published respons
 
 ## Evidence
 
-### Visible Filter: Removed
-
-Visible ethnicity control removed from the interface
-
-### Sorting Patterns: Persist
-
-Underlying behavioural sorting patterns may still persist
-
-### Historical Penalty: Black users
-
-Historical platform data showed penalties for Black users
-
-### Current Data: Unpublished
-
-Current response distributions have not been published
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| VISIBLE FILTER | Removed | Visible ethnicity control removed from the interface |
+| SORTING PATTERNS | Persist | Underlying behavioural sorting patterns may still persist |
+| HISTORICAL PENALTY | Black users | Historical platform data showed penalties for Black users |
+| CURRENT DATA | Unpublished | Current response distributions have not been published |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ Every major platform disabled ethnicity filtering in 2020.
 ## Implication
 
 Removing a discriminatory control does not automatically remove discriminatory sorting.
-
-*Evidence status: PUBLISHED PLATFORM ANALYSIS*

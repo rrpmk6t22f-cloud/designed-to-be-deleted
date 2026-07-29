@@ -6,7 +6,6 @@ weight: 6
 part: "PART ONE — THE PORTFOLIO"
 summary: "The more profiles people see, the less likely they become to accept one."
 description: "Across three studies, the probability that a participant would accept a profile declined by an average of twenty-seven percent between the first option presented and the last, with objective quality held constant."
-status: "PEER REVIEWED"
 draft: false
 traits:
   - label: "ACCEPTANCE"
@@ -40,21 +39,12 @@ Across three studies, the probability that a participant would accept a profile 
 
 ## Evidence
 
-### Acceptance: −27%
-
-Acceptance fell from the first profile to the last
-
-### Studies: 3
-
-Effect reproduced across three experimental studies
-
-### Quality: Constant
-
-Objective profile quality remained unchanged throughout
-
-### Effect: Rejection
-
-Repeated choice produced a persistent rejection mind-set
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| ACCEPTANCE | −27% | Acceptance fell from the first profile to the last |
+| STUDIES | 3 | Effect reproduced across three experimental studies |
+| QUALITY | Constant | Objective profile quality remained unchanged throughout |
+| EFFECT | Rejection | Repeated choice produced a persistent rejection mind-set |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ Across three studies, the probability that a participant would accept a profile 
 ## Implication
 
 Endless choice can train habitual refusal rather than improve connection.
-
-*Evidence status: PEER REVIEWED*

@@ -6,7 +6,6 @@ weight: 4
 part: "PART ONE — THE PORTFOLIO"
 summary: "Changing apps may only move you to another line in the same earnings report."
 description: "Tinder, Hinge, Match, Meetic, OkCupid, Plenty of Fish, Pairs, Azar, Hakuna, OurTime, BLK, Chispa, Archer, The League, and since May 2025 the sapphic app HER."
-status: "COMPANY REPORTED"
 draft: false
 traits:
   - label: "PORTFOLIO"
@@ -40,21 +39,12 @@ Tinder, Hinge, Match, Meetic, OkCupid, Plenty of Fish, Pairs, Azar, Hakuna, OurT
 
 ## Evidence
 
-### Portfolio: 20+
-
-Dating brands operating across the wider portfolio
-
-### Reporting: 4
-
-Business lines used in corporate reporting
-
-### Her Acquired: May 2025
-
-Queer platform added to the portfolio in 2025
-
-### Parent: Match Group
-
-Distinct products ultimately report to one owner
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| PORTFOLIO | 20+ | Dating brands operating across the wider portfolio |
+| REPORTING | 4 | Business lines used in corporate reporting |
+| HER ACQUIRED | May 2025 | Queer platform added to the portfolio in 2025 |
+| PARENT | Match Group | Distinct products ultimately report to one owner |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ Tinder, Hinge, Match, Meetic, OkCupid, Plenty of Fish, Pairs, Azar, Hakuna, OurT
 ## Implication
 
 Leaving one brand may keep the user inside the same ownership structure.
-
-*Evidence status: COMPANY REPORTED*

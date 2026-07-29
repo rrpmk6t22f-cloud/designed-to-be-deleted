@@ -6,7 +6,6 @@ weight: 20
 part: "PART TWO — THE GRID"
 summary: "One million people. One hundred and thirty-six euros."
 description: "Working with Tactical Tech, the Barcelona-based artist Joana Moll purchased approximately one million dating profiles from the broker USDate for €136."
-status: "DOCUMENTED PURCHASE"
 draft: false
 traits:
   - label: "PROFILES"
@@ -43,21 +42,12 @@ Working with Tactical Tech, the Barcelona-based artist Joana Moll purchased appr
 
 ## Evidence
 
-### Profiles: ~1M
-
-Dating profiles purchased from a commercial data broker
-
-### Photographs: ~5M
-
-Photographs included in the acquired data package
-
-### Price: €136
-
-Total price paid for the complete dataset
-
-### Per Profile: €0.000136
-
-Approximate commercial value assigned to one profile
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| PROFILES | ~1M | Dating profiles purchased from a commercial data broker |
+| PHOTOGRAPHS | ~5M | Photographs included in the acquired data package |
+| PRICE | €136 | Total price paid for the complete dataset |
+| PER PROFILE | €0.000136 | Approximate commercial value assigned to one profile |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ Working with Tactical Tech, the Barcelona-based artist Joana Moll purchased appr
 ## Implication
 
 Information created for intimate visibility can be resold for fractions of a cent.
-
-*Evidence status: DOCUMENTED PURCHASE*

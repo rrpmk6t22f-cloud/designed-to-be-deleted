@@ -23,13 +23,28 @@
       <p class="eyebrow">The thesis selector</p>
       <h2 id="theses-title">All 31 profiles</h2>
     </div>
-    <p><span id="result-count">31</span> visible</p>
+    <p>Four chapters · thirty-one theses</p>
   </div>
   <div class="filters" role="search">
-    <label for="thesis-search">Find a thesis</label>
-    <div class="search-row">
-      <input id="thesis-search" type="search" placeholder="Search title, proposition, or trait…" autocomplete="off">
-      <button id="clear-search" type="button">Clear</button>
+    <div class="filter-search">
+      <label for="thesis-search">Find a thesis</label>
+      <div class="search-row">
+        <input id="thesis-search" type="search" placeholder="Search title, proposition, or trait…" autocomplete="off">
+        <button id="clear-search" type="button">Clear</button>
+      </div>
+    </div>
+    <fieldset class="filter-groups">
+      <legend>Filter by chapter</legend>
+      <div class="filter-buttons" aria-label="Thesis chapters">
+        <button class="filter-button is-active" type="button" data-filter="all" aria-pressed="true">All <span>31</span></button>
+        <button class="filter-button" type="button" data-filter="part-one" aria-pressed="false">Portfolio <span>13</span></button>
+        <button class="filter-button" type="button" data-filter="part-two" aria-pressed="false">Grid <span>9</span></button>
+        <button class="filter-button" type="button" data-filter="part-three" aria-pressed="false">Refusals <span>4</span></button>
+        <button class="filter-button" type="button" data-filter="part-four" aria-pressed="false">Other ledger <span>5</span></button>
+      </div>
+    </fieldset>
+    <div class="filter-status" aria-live="polite">
+      Showing <strong id="result-count">31</strong> of 31 theses
     </div>
   </div>
   <div class="thesis-grid" id="thesis-grid">
@@ -37,6 +52,6 @@
       {{ partial "thesis-card.html" . }}
     {{ end }}
   </div>
-  <p class="empty-state" id="empty-state" hidden>No thesis matches that search. Try another word.</p>
+  <p class="empty-state" id="empty-state" hidden>No thesis matches these filters. Try another chapter or search term.</p>
 </section>
 {{ end }}

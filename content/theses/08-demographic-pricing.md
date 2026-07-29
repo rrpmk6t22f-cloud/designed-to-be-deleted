@@ -6,7 +6,6 @@ weight: 8
 part: "PART ONE — THE PORTFOLIO"
 summary: "The same country. The same subscription. A different price."
 description: "Mozilla and Consumers International found Tinder operating up to thirty-one distinct price points for the same subscription within a single country, a spread of up to five times for identical service: $4.99 to $26.99 in the United States, $4.45 to $25.95 in the Netherlands."
-status: "INVESTIGATED / LITIGATED"
 draft: false
 traits:
   - label: "PRICE POINTS"
@@ -43,21 +42,12 @@ Mozilla and Consumers International found Tinder operating up to thirty-one dist
 
 ## Evidence
 
-### Price Points: 31
-
-Distinct prices offered within a single country
-
-### Price Spread: 5×
-
-Maximum spread found for an identical subscription
-
-### Age Effect: +65.3%
-
-Older users paid more on average across markets
-
-### Countries: 6
-
-Countries included in the international pricing investigation
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| PRICE POINTS | 31 | Distinct prices offered within a single country |
+| PRICE SPREAD | 5× | Maximum spread found for an identical subscription |
+| AGE EFFECT | +65.3% | Older users paid more on average across markets |
+| COUNTRIES | 6 | Countries included in the international pricing investigation |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ Mozilla and Consumers International found Tinder operating up to thirty-one dist
 ## Implication
 
 Pricing reflects inferred willingness to pay rather than product value alone.
-
-*Evidence status: INVESTIGATED / LITIGATED*

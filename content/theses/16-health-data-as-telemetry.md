@@ -6,7 +6,6 @@ weight: 16
 part: "PART TWO — THE GRID"
 summary: "HIV status travelled with location, device and identity data."
 description: "In April 2018 the Norwegian research foundation SINTEF, commissioned by the Swedish broadcaster SVT, found that Grindr was transmitting users' HIV status and last-tested date to the analytics vendors Apptimize and Localytics, bundled with GPS position, phone identifier and email address."
-status: "TECHNICALLY OBSERVED"
 draft: false
 traits:
   - label: "HEALTH DATA"
@@ -43,21 +42,12 @@ In April 2018 the Norwegian research foundation SINTEF, commissioned by the Swed
 
 ## Evidence
 
-### Health Data: HIV status
-
-HIV status was transmitted alongside testing information
-
-### Associated Data: GPS + ID
-
-Health data travelled with location and device identifiers
-
-### Users: ~3.6M/day
-
-Approximate daily user base at the time
-
-### Vendors: 2 vendors
-
-External analytics companies named in the investigation
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| HEALTH DATA | HIV status | HIV status was transmitted alongside testing information |
+| ASSOCIATED DATA | GPS + ID | Health data travelled with location and device identifiers |
+| USERS | ~3.6M/day | Approximate daily user base at the time |
+| VENDORS | 2 vendors | External analytics companies named in the investigation |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ In April 2018 the Norwegian research foundation SINTEF, commissioned by the Swed
 ## Implication
 
 Information entered for intimate communication was processed as ordinary analytics telemetry.
-
-*Evidence status: TECHNICALLY OBSERVED*

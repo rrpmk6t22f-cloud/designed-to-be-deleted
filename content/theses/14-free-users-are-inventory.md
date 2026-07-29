@@ -6,7 +6,6 @@ weight: 14
 part: "PART TWO — THE GRID"
 summary: "Fewer than nine in every hundred active users pay. Everyone still produces value."
 description: "Grindr reported full-year 2025 revenue of $439.9 million, up twenty-eight percent, with net income of $95 million and adjusted EBITDA of $195.6 million, against average monthly active users of fifteen million and average paying users of approximately 1.3 million."
-status: "COMPANY REPORTED"
 draft: false
 traits:
   - label: "MONTHLY USERS"
@@ -43,21 +42,12 @@ Grindr reported full-year 2025 revenue of $439.9 million, up twenty-eight percen
 
 ## Evidence
 
-### Monthly Users: 15M
-
-Average monthly users supplying activity and network density
-
-### Paying Users: 1.3M
-
-Average users generating direct subscription revenue
-
-### Paying Share: <9%
-
-Only a small minority pays the platform directly
-
-### 2025 Revenue: $439.9M
-
-Full-year revenue reported by Grindr
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| MONTHLY USERS | 15M | Average monthly users supplying activity and network density |
+| PAYING USERS | 1.3M | Average users generating direct subscription revenue |
+| PAYING SHARE | <9% | Only a small minority pays the platform directly |
+| 2025 REVENUE | $439.9M | Full-year revenue reported by Grindr |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ Grindr reported full-year 2025 revenue of $439.9 million, up twenty-eight percen
 ## Implication
 
 Free users supply density, engagement and advertising value.
-
-*Evidence status: COMPANY REPORTED*

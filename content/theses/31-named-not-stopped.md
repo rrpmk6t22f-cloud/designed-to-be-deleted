@@ -6,7 +6,6 @@ weight: 31
 part: "PART FOUR — THE OTHER LEDGER"
 summary: "The dark pattern is prohibited. The like limit remains."
 description: "Article 25 of the Digital Services Act prohibits dark-pattern interfaces."
-status: "OFFICIAL POLICY FINDING"
 draft: false
 traits:
   - label: "EP VOTE"
@@ -43,21 +42,12 @@ Article 25 of the Digital Services Act prohibits dark-pattern interfaces. The Eu
 
 ## Evidence
 
-### Ep Vote: 545–12
-
-European Parliament vote on addictive digital design
-
-### Annual Harm: ≥€7.9B
-
-Estimated yearly harm from unfair digital practices
-
-### Digital Fairness Act: Late 2026
-
-Expected timing of the Digital Fairness Act proposal
-
-### Status: Active
-
-Named mechanisms remain active despite regulatory recognition
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| EP VOTE | 545–12 | European Parliament vote on addictive digital design |
+| ANNUAL HARM | ≥€7.9B | Estimated yearly harm from unfair digital practices |
+| DIGITAL FAIRNESS ACT | Late 2026 | Expected timing of the Digital Fairness Act proposal |
+| STATUS | Active | Named mechanisms remain active despite regulatory recognition |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ Article 25 of the Digital Services Act prohibits dark-pattern interfaces.
 ## Implication
 
 Regulatory recognition has advanced faster than enforcement and product change.
-
-*Evidence status: OFFICIAL POLICY FINDING*

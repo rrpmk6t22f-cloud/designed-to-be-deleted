@@ -6,7 +6,6 @@ weight: 17
 part: "PART TWO — THE GRID"
 summary: "The data was considered too sensitive to remain under foreign ownership."
 description: "Beijing Kunlun Tech acquired a controlling interest in Grindr in 2016 for $93 million and full ownership by 2018."
-status: "GOVERNMENT ACTION"
 draft: false
 traits:
   - label: "CONTROL"
@@ -43,21 +42,12 @@ Beijing Kunlun Tech acquired a controlling interest in Grindr in 2016 for $93 mi
 
 ## Evidence
 
-### Control: 2016
-
-Controlling investment by Beijing Kunlun Tech
-
-### Full Ownership: 2018
-
-Chinese owner completed full acquisition of Grindr
-
-### Divestiture: 2019
-
-United States government ordered the divestiture
-
-### Sale: ~$608.5M
-
-Approximate value of the completed 2020 sale
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| CONTROL | 2016 | Controlling investment by Beijing Kunlun Tech |
+| FULL OWNERSHIP | 2018 | Chinese owner completed full acquisition of Grindr |
+| DIVESTITURE | 2019 | United States government ordered the divestiture |
+| SALE | ~$608.5M | Approximate value of the completed 2020 sale |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ Beijing Kunlun Tech acquired a controlling interest in Grindr in 2016 for $93 mi
 ## Implication
 
 A dating database can be treated as strategically sensitive intelligence.
-
-*Evidence status: GOVERNMENT ACTION*

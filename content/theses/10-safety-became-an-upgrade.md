@@ -6,7 +6,6 @@ weight: 10
 part: "PART ONE — THE PORTFOLIO"
 summary: "One group of users received screening. Another received exposure."
 description: "A joint investigation by ProPublica, Columbia Journalism Investigations and BuzzFeed News established that Match Group screened for registered sex offenders on the paid Match.com service and not on Tinder, OkCupid or Plenty of Fish."
-status: "INVESTIGATED"
 draft: false
 traits:
   - label: "SCREENED"
@@ -40,21 +39,12 @@ A joint investigation by ProPublica, Columbia Journalism Investigations and Buzz
 
 ## Evidence
 
-### Screened: Match.com
-
-Sex-offender screening applied to the paid Match service
-
-### Unscreened: 3 apps
-
-Three named free apps lacked equivalent screening
-
-### Incidents: 150+
-
-Reported assault incidents reviewed by investigators
-
-### Later Model: Paid
-
-Background checks were later offered as paid functionality
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| SCREENED | Match.com | Sex-offender screening applied to the paid Match service |
+| UNSCREENED | 3 apps | Three named free apps lacked equivalent screening |
+| INCIDENTS | 150+ | Reported assault incidents reviewed by investigators |
+| LATER MODEL | Paid | Background checks were later offered as paid functionality |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ A joint investigation by ProPublica, Columbia Journalism Investigations and Buzz
 ## Implication
 
 Safety protections were unevenly applied and later repositioned as purchasable functionality.
-
-*Evidence status: INVESTIGATED*

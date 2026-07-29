@@ -6,7 +6,6 @@ weight: 28
 part: "PART FOUR — THE OTHER LEDGER"
 summary: "The same app can enable connection, entrapment and emergency warning."
 description: "Human Rights Watch documented in a 135-page report how security forces in Egypt, Iraq, Jordan, Lebanon and Tunisia create fake profiles to entrap users, producing prosecution, torture and extortion; a twenty-seven-year-old Egyptian man recounted recognising, in the police report, that the man he had met on Grindr was one of the officers."
-status: "DOCUMENTED TESTIMONY / INVESTIGATION"
 draft: false
 traits:
   - label: "COUNTRIES"
@@ -43,21 +42,12 @@ Human Rights Watch documented in a 135-page report how security forces in Egypt,
 
 ## Evidence
 
-### Countries: 5
-
-Countries covered by the Human Rights Watch investigation
-
-### Egypt Arrests: 70+
-
-People arrested after the 2017 Cairo concert
-
-### 2023 Arrests: 35–40
-
-Further arrests reported during 2023
-
-### Warnings: Hourly
-
-Safety alerts sent to Grindr users in Egypt
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| COUNTRIES | 5 | Countries covered by the Human Rights Watch investigation |
+| EGYPT ARRESTS | 70+ | People arrested after the 2017 Cairo concert |
+| 2023 ARRESTS | 35–40 | Further arrests reported during 2023 |
+| WARNINGS | Hourly | Safety alerts sent to Grindr users in Egypt |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ Human Rights Watch documented in a 135-page report how security forces in Egypt,
 ## Implication
 
 The same infrastructure can be indispensable and dangerous at once.
-
-*Evidence status: DOCUMENTED TESTIMONY / INVESTIGATION*

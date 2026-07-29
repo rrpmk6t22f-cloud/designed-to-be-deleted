@@ -6,7 +6,6 @@ weight: 21
 part: "PART TWO — THE GRID"
 summary: "A personal history returned as 800 pages of platform memory."
 description: "Judith Duportail exercised her right of access under European data law and received 800 pages: 920 openings of the application, 1,700 messages, 870 matches accumulated since December 2013."
-status: "DOCUMENTED DATA-ACCESS REQUEST"
 draft: false
 traits:
   - label: "ARCHIVE"
@@ -43,21 +42,12 @@ Judith Duportail exercised her right of access under European data law and recei
 
 ## Evidence
 
-### Archive: 800 pp
-
-Length of the user archive returned by Tinder
-
-### Openings: 920
-
-Recorded occasions when the application was opened
-
-### Messages: 1,700
-
-Private messages retained across several years
-
-### Matches: 870
-
-Matches preserved within the behavioural archive
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| ARCHIVE | 800 pp | Length of the user archive returned by Tinder |
+| OPENINGS | 920 | Recorded occasions when the application was opened |
+| MESSAGES | 1,700 | Private messages retained across several years |
+| MATCHES | 870 | Matches preserved within the behavioural archive |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ Judith Duportail exercised her right of access under European data law and recei
 ## Implication
 
 The platform can remember a person’s intimate behavior more completely than the person does.
-
-*Evidence status: DOCUMENTED DATA-ACCESS REQUEST*

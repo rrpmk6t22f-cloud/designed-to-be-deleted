@@ -6,7 +6,6 @@ weight: 27
 part: "PART FOUR — THE OTHER LEDGER"
 summary: "Real relationships emerge from systems that still reward continued use."
 description: "Thirty-nine percent of heterosexual couples in the United States met online as of 2017, against twenty-two percent in 2009, with online meeting overtaking introduction through friends around 2013."
-status: "PEER REVIEWED"
 draft: false
 traits:
   - label: "HETERO COUPLES"
@@ -40,21 +39,12 @@ Thirty-nine percent of heterosexual couples in the United States met online as o
 
 ## Evidence
 
-### Hetero Couples: 39%
-
-Heterosexual couples who met online in 2017
-
-### Same-Sex Couples: 65%
-
-Same-sex couples who met online in 2017
-
-### Overtaking Friends: ~2013
-
-Online meeting overtook introductions through friends
-
-### Outcome: Real
-
-Genuine relationships are a documented platform outcome
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| HETERO COUPLES | 39% | Heterosexual couples who met online in 2017 |
+| SAME-SEX COUPLES | 65% | Same-sex couples who met online in 2017 |
+| OVERTAKING FRIENDS | ~2013 | Online meeting overtook introductions through friends |
+| OUTCOME | Real | Genuine relationships are a documented platform outcome |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ Thirty-nine percent of heterosexual couples in the United States met online as o
 ## Implication
 
 The platforms create genuine social value without resolving their extractive incentives.
-
-*Evidence status: PEER REVIEWED*

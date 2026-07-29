@@ -6,7 +6,6 @@ weight: 1
 part: "PART ONE — THE PORTFOLIO"
 summary: "Fewer paying users. More revenue extracted from each one."
 description: "Match Group closed 2025 with revenue of $3.487 billion against average payers of 14.165 million, down five percent year on year, at a revenue per payer of $20.09, up five percent."
-status: "COMPANY REPORTED"
 draft: false
 traits:
   - label: "AVERAGE PAYERS"
@@ -40,21 +39,12 @@ Match Group closed 2025 with revenue of $3.487 billion against average payers of
 
 ## Evidence
 
-### Average Payers: 14.2M
-
-Average paying users, down 5% year on year
-
-### Revenue Per Payer: $20.09
-
-Monthly revenue per payer, up 5% year on year
-
-### 2025 Revenue: $3.487B
-
-Full-year revenue reported by Match Group
-
-### Q4 Ebitda Margin: 42%
-
-Adjusted margin reported for the fourth quarter
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| AVERAGE PAYERS | 14.2M | Average paying users, down 5% year on year |
+| REVENUE PER PAYER | $20.09 | Monthly revenue per payer, up 5% year on year |
+| 2025 REVENUE | $3.487B | Full-year revenue reported by Match Group |
+| Q4 EBITDA MARGIN | 42% | Adjusted margin reported for the fourth quarter |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ Match Group closed 2025 with revenue of $3.487 billion against average payers of
 ## Implication
 
 The company can extract more revenue while the paying population contracts.
-
-*Evidence status: COMPANY REPORTED*

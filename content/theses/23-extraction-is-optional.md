@@ -6,7 +6,6 @@ weight: 23
 part: "PART THREE — REFUSALS"
 summary: "Another company faced the same risks and made a different decision."
 description: "Perry Street Software, which operates Scruff and Jack'd and reaches a reported thirty million members, removed third-party programmatic advertising from its products in 2018 and stripped other companies' software development kits out of its applications at what its chief executive describes as tremendous cost in time and money."
-status: "COMPANY STATED"
 draft: false
 traits:
   - label: "PROGRAMMATIC ADS"
@@ -40,21 +39,12 @@ Perry Street Software, which operates Scruff and Jack'd and reaches a reported t
 
 ## Evidence
 
-### Programmatic Ads: 2018
-
-Year third-party programmatic advertising was removed
-
-### Third-Party Sdks: Removed
-
-External software-development kits were also removed
-
-### Members: ~30M
-
-Reported membership across Scruff and Jack’d
-
-### Data Sales: None
-
-Company states that it does not sell user data
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| PROGRAMMATIC ADS | 2018 | Year third-party programmatic advertising was removed |
+| THIRD-PARTY SDKs | Removed | External software-development kits were also removed |
+| MEMBERS | ~30M | Reported membership across Scruff and Jack’d |
+| DATA SALES | None | Company states that it does not sell user data |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ Perry Street Software, which operates Scruff and Jack'd and reaches a reported t
 ## Implication
 
 Third-party advertising and data-sharing infrastructure are commercial choices, not necessities.
-
-*Evidence status: COMPANY STATED*

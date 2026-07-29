@@ -6,7 +6,6 @@ weight: 29
 part: "PART FOUR — THE OTHER LEDGER"
 summary: "Loneliness is not caused by dating apps. It is the condition against which they are priced."
 description: "The World Health Organization's Commission on Social Connection reports that one in six people worldwide is affected by loneliness, associated with an estimated 871,000 deaths each year, approximately one hundred every hour."
-status: "INSTITUTIONAL RESEARCH"
 draft: false
 traits:
   - label: "GLOBAL"
@@ -46,21 +45,12 @@ The World Health Organization's Commission on Social Connection reports that one
 
 ## Evidence
 
-### Global: 1 in 6
-
-Estimated global population currently experiencing loneliness
-
-### Deaths: 871K/year
-
-Annual deaths statistically associated with loneliness
-
-### Rate: ~100/hour
-
-Approximate global death rate for each hour
-
-### Spain 18–24: 34.6%
-
-Young Spanish adults reporting unwanted loneliness
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| GLOBAL | 1 in 6 | Estimated global population currently experiencing loneliness |
+| DEATHS | 871K/year | Annual deaths statistically associated with loneliness |
+| RATE | ~100/hour | Approximate global death rate for each hour |
+| SPAIN 18–24 | 34.6% | Young Spanish adults reporting unwanted loneliness |
 
 ## Key finding
 
@@ -69,5 +59,3 @@ The World Health Organization's Commission on Social Connection reports that one
 ## Implication
 
 Platforms price access to connection inside a broader crisis of loneliness.
-
-*Evidence status: INSTITUTIONAL RESEARCH*

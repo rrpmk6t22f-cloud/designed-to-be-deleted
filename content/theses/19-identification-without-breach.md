@@ -6,7 +6,6 @@ weight: 19
 part: "PART TWO — THE GRID"
 summary: "No breach was required. The signals were commercially available."
 description: "In July 2021 the Catholic outlet *The Pillar* reported that commercially available app signal data showed a device correlated to Monsignor Jeffrey Burrill emitting Grindr signals on a near-daily basis through parts of 2018, 2019 and 2020, at his office, his residence and at conference events."
-status: "REPORTED / DISPUTED"
 draft: false
 traits:
   - label: "PERIOD"
@@ -40,21 +39,12 @@ In July 2021 the Catholic outlet <em>The Pillar</em> reported that commercially 
 
 ## Evidence
 
-### Period: 2018–20
-
-Period covered by the commercially sourced signals
-
-### Data: App signals
-
-Mobile-app activity purchased through the commercial market
-
-### Locations: 3 settings
-
-Work, home and event locations were correlated
-
-### Breach: None
-
-No breach of Grindr’s database was required
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| PERIOD | 2018–20 | Period covered by the commercially sourced signals |
+| DATA | App signals | Mobile-app activity purchased through the commercial market |
+| LOCATIONS | 3 settings | Work, home and event locations were correlated |
+| BREACH | None | No breach of Grindr’s database was required |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ In July 2021 the Catholic outlet *The Pillar* reported that commercially availab
 ## Implication
 
 Commercial data can enable identification without a visible platform breach.
-
-*Evidence status: REPORTED / DISPUTED*

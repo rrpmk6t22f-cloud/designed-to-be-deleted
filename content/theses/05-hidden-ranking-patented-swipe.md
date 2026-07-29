@@ -6,7 +6,6 @@ weight: 5
 part: "PART ONE — THE PORTFOLIO"
 summary: "Desirability became an internal score. The swipe became intellectual property."
 description: "In January 2016 Tinder confirmed to *Fast Company* that it maintained an internal desirability score; Sean Rad described two and a half months of work on the algorithm, and Jonathan Badeen compared the mechanic to Warcraft ladders, where beating a high-rated opponent yields more points."
-status: "CONFIRMED / DOCUMENTED"
 draft: false
 traits:
   - label: "INTERNAL RANKING"
@@ -43,21 +42,12 @@ In January 2016 Tinder confirmed to <em>Fast Company</em> that it maintained an 
 
 ## Evidence
 
-### Internal Ranking: 2016
-
-Internal desirability scoring confirmed by Tinder
-
-### Later Status: Retired
-
-Elo system later described as no longer used
-
-### Patent: US 9,733,811
-
-Double-opt-in swipe registered as company intellectual property
-
-### Litigation: 2018
-
-Patent rights asserted during litigation against Bumble
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| INTERNAL RANKING | 2016 | Internal desirability scoring confirmed by Tinder |
+| LATER STATUS | Retired | Elo system later described as no longer used |
+| PATENT | US 9,733,811 | Double-opt-in swipe registered as company intellectual property |
+| LITIGATION | 2018 | Patent rights asserted during litigation against Bumble |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ In January 2016 Tinder confirmed to *Fast Company* that it maintained an interna
 ## Implication
 
 User evaluation and the gesture used to evaluate others became proprietary infrastructure.
-
-*Evidence status: CONFIRMED / DOCUMENTED*

@@ -6,7 +6,6 @@ weight: 2
 part: "PART ONE — THE PORTFOLIO"
 summary: "A successful relationship removes two potential subscribers."
 description: "Two people who stay together cancel two subscriptions."
-status: "ANALYTICAL"
 draft: false
 traits:
   - label: "SUCCESSFUL MATCH"
@@ -43,21 +42,12 @@ Two people who stay together cancel two subscriptions. Financial journalism has 
 
 ## Evidence
 
-### Successful Match: 2 exits
-
-A successful relationship may end two subscriptions
-
-### Platform Metrics: Payers/churn
-
-Retention is tracked through payers and churn
-
-### User Goal: Exit
-
-The user’s desired outcome is leaving the product
-
-### Structural Tension: Opposed
-
-Platform retention and user resolution point opposite ways
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| SUCCESSFUL MATCH | 2 exits | A successful relationship may end two subscriptions |
+| PLATFORM METRICS | Payers/churn | Retention is tracked through payers and churn |
+| USER GOAL | Exit | The user’s desired outcome is leaving the product |
+| STRUCTURAL TENSION | Opposed | Platform retention and user resolution point opposite ways |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ Two people who stay together cancel two subscriptions.
 ## Implication
 
 The user’s ideal outcome and the platform’s preferred commercial outcome do not fully align.
-
-*Evidence status: ANALYTICAL*

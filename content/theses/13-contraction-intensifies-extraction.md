@@ -6,7 +6,6 @@ weight: 13
 part: "PART ONE — THE PORTFOLIO"
 summary: "The audience shrinks. The company cuts costs. The business searches for higher yield."
 description: "Bumble reported first-quarter 2025 revenue of $247 million, down eight percent, with app paying users at 2.7 million and a user base that fell from roughly fifty-eight million in 2023 to fifty million in 2024."
-status: "COMPANY REPORTED"
 draft: false
 traits:
   - label: "Q1 REVENUE"
@@ -40,21 +39,12 @@ Bumble reported first-quarter 2025 revenue of $247 million, down eight percent, 
 
 ## Evidence
 
-### Q1 Revenue: $247M
-
-First-quarter revenue, eight percent lower year on year
-
-### Paying Users: 2.7M
-
-Paying-user total reported for Bumble’s applications
-
-### Roles: ~240
-
-Roles eliminated during the June restructuring
-
-### Workforce: ~30%
-
-Approximate share of the workforce removed
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| Q1 REVENUE | $247M | First-quarter revenue, eight percent lower year on year |
+| PAYING USERS | 2.7M | Paying-user total reported for Bumble’s applications |
+| ROLES | ~240 | Roles eliminated during the June restructuring |
+| WORKFORCE | ~30% | Approximate share of the workforce removed |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ Bumble reported first-quarter 2025 revenue of $247 million, down eight percent, 
 ## Implication
 
 When growth slows, extraction pressure shifts toward users and workers.
-
-*Evidence status: COMPANY REPORTED*

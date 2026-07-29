@@ -6,7 +6,6 @@ weight: 15
 part: "PART TWO — THE GRID"
 summary: "Exposure travels everywhere. Monetisation remains concentrated where visibility is safer."
 description: "Grindr states that it has users in more than 190 countries and territories, and that North America and Europe generated eighty-four percent of total revenue in the first half of 2025."
-status: "COMPANY REPORTED"
 draft: false
 traits:
   - label: "GLOBAL REACH"
@@ -40,21 +39,12 @@ Grindr states that it has users in more than 190 countries and territories, and 
 
 ## Evidence
 
-### Global Reach: 190+
-
-Service availability across countries and territories
-
-### Na + Europe: 84%
-
-Revenue generated in North America and Europe
-
-### Risk: Global
-
-Personal exposure is distributed across the global network
-
-### Revenue: Few markets
-
-Commercial returns remain concentrated in safer markets
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| GLOBAL REACH | 190+ | Service availability across countries and territories |
+| NA + EUROPE | 84% | Revenue generated in North America and Europe |
+| RISK | Global | Personal exposure is distributed across the global network |
+| REVENUE | Few markets | Commercial returns remain concentrated in safer markets |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ Grindr states that it has users in more than 190 countries and territories, and 
 ## Implication
 
 The greatest personal risk may be borne in markets generating the least revenue.
-
-*Evidence status: COMPANY REPORTED*

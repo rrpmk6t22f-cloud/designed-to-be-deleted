@@ -6,7 +6,6 @@ weight: 9
 part: "PART ONE — THE PORTFOLIO"
 summary: "The notification looked romantic. The account was already suspected of being fake."
 description: "The Federal Trade Commission alleged that between June 2016 and May 2018, nearly 500,000 subscriptions were purchased within twenty-four hours of a user receiving a message from an account the company had already flagged as likely fraudulent."
-status: "ALLEGED / SETTLED WITHOUT ADMISSION"
 draft: false
 traits:
   - label: "SUBSCRIPTIONS"
@@ -40,21 +39,12 @@ The Federal Trade Commission alleged that between June 2016 and May 2018, nearly
 
 ## Evidence
 
-### Subscriptions: ~500K
-
-Subscriptions purchased within twenty-four hours of contact
-
-### Flagged Accounts: ~90%
-
-Flagged accounts later confirmed as fraudulent
-
-### Settlement: $14M
-
-Case settled without an admission of liability
-
-### Period: 2016–18
-
-Period covered by the Federal Trade Commission allegation
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| SUBSCRIPTIONS | ~500K | Subscriptions purchased within twenty-four hours of contact |
+| FLAGGED ACCOUNTS | ~90% | Flagged accounts later confirmed as fraudulent |
+| SETTLEMENT | $14M | Case settled without an admission of liability |
+| PERIOD | 2016–18 | Period covered by the Federal Trade Commission allegation |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ The Federal Trade Commission alleged that between June 2016 and May 2018, nearly
 ## Implication
 
 Suspected fraudulent interest could function as a subscription-conversion mechanism.
-
-*Evidence status: ALLEGED / SETTLED WITHOUT ADMISSION*

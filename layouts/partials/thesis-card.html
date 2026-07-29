@@ -1,4 +1,5 @@
-<article class="thesis-card" data-search="{{ lower (printf "%s %s %v" .Title .Params.summary .Params.traits) }}">
+{{ $part := lower (replace (index (split .Params.part " — ") 0) " " "-") }}
+<article class="thesis-card" data-search="{{ lower (printf "%s %s %v" .Title .Params.summary .Params.traits) }}" data-part="{{ $part }}">
   <a href="{{ .RelPermalink }}" aria-label="Read thesis {{ printf "%02d" .Params.number }}: {{ .Title }}">
     <div class="card-top">
       <span class="card-number">{{ printf "%02d" .Params.number }}</span>

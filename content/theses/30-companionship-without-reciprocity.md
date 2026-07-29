@@ -6,7 +6,6 @@ weight: 30
 part: "PART FOUR — THE OTHER LEDGER"
 summary: "Companionship remains. Reciprocity disappears."
 description: "Character.AI reports roughly twenty million monthly active users and claims an average of about two hours a day on its own definition of activity; Google licensed its technology for a reported $2.7 billion in August 2024."
-status: "LITIGATION ONGOING / COMPANY REPORTED"
 draft: false
 traits:
   - label: "MONTHLY USERS"
@@ -43,21 +42,12 @@ Character.AI reports roughly twenty million monthly active users and claims an a
 
 ## Evidence
 
-### Monthly Users: ~20M
-
-Monthly active users reported by Character.AI
-
-### Activity: ~2h/day
-
-Average daily activity claimed by the company
-
-### Google Deal: $2.7B
-
-Reported value of Google’s technology licensing agreement
-
-### Ca Law: Jan 2026
-
-California companion-chatbot law entered into force
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| MONTHLY USERS | ~20M | Monthly active users reported by Character.AI |
+| ACTIVITY | ~2h/day | Average daily activity claimed by the company |
+| GOOGLE DEAL | $2.7B | Reported value of Google’s technology licensing agreement |
+| CA LAW | Jan 2026 | California companion-chatbot law entered into force |
 
 ## Key finding
 
@@ -66,5 +56,3 @@ Character.AI reports roughly twenty million monthly active users and claims an a
 ## Implication
 
 Commercial companionship can remove reciprocity and the demands of another person.
-
-*Evidence status: LITIGATION ONGOING / COMPANY REPORTED*

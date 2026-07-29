@@ -6,7 +6,6 @@ weight: 25
 part: "PART THREE — REFUSALS"
 summary: "No swipe. No ranked grid. Text before photographs."
 description: "Lex was launched in November 2019 by Kell Rakowski, out of an Instagram account that reproduced the personal advertisements from the back of *On Our Backs*, the queer women's magazine published between 1984 and 2006."
-status: "DOCUMENTED PLATFORM DESIGN"
 draft: false
 traits:
   - label: "LAUNCHED"
@@ -40,21 +39,12 @@ Lex was launched in November 2019 by Kell Rakowski, out of an Instagram account 
 
 ## Evidence
 
-### Launched: Nov 2019
-
-Text-first queer application launched in late 2019
-
-### Origin: Personal ads
-
-Design model derived from queer personal advertisements
-
-### Crowdfunding: $40K
-
-Initial community crowdfunding raised before launch
-
-### Later Funding: $1.5M / $5.6M
-
-Later institutional seed rounds expanded the company
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| LAUNCHED | Nov 2019 | Text-first queer application launched in late 2019 |
+| ORIGIN | Personal ads | Design model derived from queer personal advertisements |
+| CROWDFUNDING | $40K | Initial community crowdfunding raised before launch |
+| LATER FUNDING | $1.5M / $5.6M | Later institutional seed rounds expanded the company |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ Lex was launched in November 2019 by Kell Rakowski, out of an Instagram account 
 ## Implication
 
 The dominant swipe-and-grid interface is a choice rather than a requirement.
-
-*Evidence status: DOCUMENTED PLATFORM DESIGN*

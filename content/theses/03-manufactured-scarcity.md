@@ -6,7 +6,6 @@ weight: 3
 part: "PART ONE — THE PORTFOLIO"
 summary: "The platform introduces the restriction. Then it sells its removal."
 description: "Daily like limits, concealed incoming likes, restricted rewinds, Boosts, Super Likes, Tinder Plus, Gold, Platinum and Select, Hinge Plus and HingeX."
-status: "COMPANY DISCLOSED"
 draft: false
 traits:
   - label: "RESTRICTION"
@@ -40,21 +39,12 @@ Daily like limits, concealed incoming likes, restricted rewinds, Boosts, Super L
 
 ## Evidence
 
-### Restriction: Hidden
-
-Incoming likes are concealed by platform design
-
-### Paid Removal: Unlock
-
-Identity of incoming likes becomes a subscription feature
-
-### Visibility: Boost
-
-Temporary profile visibility is sold separately
-
-### Rewind: Premium
-
-A paid tier restores the removed rewind
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| RESTRICTION | Hidden | Incoming likes are concealed by platform design |
+| PAID REMOVAL | Unlock | Identity of incoming likes becomes a subscription feature |
+| VISIBILITY | Boost | Temporary profile visibility is sold separately |
+| REWIND | Premium | A paid tier restores the removed rewind |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ Daily like limits, concealed incoming likes, restricted rewinds, Boosts, Super L
 ## Implication
 
 The platform creates friction and sells relief from that friction.
-
-*Evidence status: COMPANY DISCLOSED*

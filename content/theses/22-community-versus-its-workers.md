@@ -6,7 +6,6 @@ weight: 22
 part: "PART TWO — THE GRID"
 summary: "A return-to-office mandate followed a union campaign. Half the workforce left."
 description: "In July 2023 a supermajority of Grindr's staff announced their intention to unionise with the Communications Workers of America."
-status: "ALLEGED / COMPANY DISPUTES"
 draft: false
 traits:
   - label: "WORKFORCE"
@@ -40,21 +39,12 @@ In July 2023 a supermajority of Grindr's staff announced their intention to unio
 
 ## Evidence
 
-### Workforce: 178
-
-Total workforce before the contested return-to-office mandate
-
-### Left: ~80
-
-Employees who departed rather than relocate
-
-### Decision: 2 weeks
-
-Time provided to make the relocation decision
-
-### Nlrb Complaint: Nov 2024
-
-Date the labour-board complaint was issued
+| Measure | Value | What it shows |
+|:--|:--|:--|
+| WORKFORCE | 178 | Total workforce before the contested return-to-office mandate |
+| LEFT | ~80 | Employees who departed rather than relocate |
+| DECISION | 2 weeks | Time provided to make the relocation decision |
+| NLRB COMPLAINT | Nov 2024 | Date the labour-board complaint was issued |
 
 ## Key finding
 
@@ -63,5 +53,3 @@ In July 2023 a supermajority of Grindr's staff announced their intention to unio
 ## Implication
 
 A company organized around community was accused of undermining worker organization.
-
-*Evidence status: ALLEGED / COMPANY DISPUTES*
