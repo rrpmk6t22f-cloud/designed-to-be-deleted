@@ -1,37 +1,34 @@
 ---
-title: "The record kept on a user exceeds the record the user keeps."
-slug: "the-platform-remembers-more"
+title: The record kept on a user exceeds the record the user keeps.
+slug: the-platform-remembers-more
 number: 21
 weight: 21
-part: "PART TWO — THE GRID"
-summary: "A personal history returned as 800 pages of platform memory."
-description: "Judith Duportail exercised her right of access under European data law and received 800 pages: 920 openings of the application, 1,700 messages, 870 matches accumulated since December 2013."
+part: PART TWO — THE GRID
+summary: A personal history returned as 800 pages of platform memory.
+description: 'Judith Duportail exercised her right of access under European data law
+  and received 800 pages: 920 openings of the application, 1,700 messages, 870 matches
+  accumulated since December 2013.'
 draft: false
 traits:
-  - label: "ARCHIVE"
-    value: "800 pp"
-    detail: "Length of the user archive returned by Tinder"
-  - label: "OPENINGS"
-    value: "920"
-    detail: "Recorded occasions when the application was opened"
-  - label: "MESSAGES"
-    value: "1,700"
-    detail: "Private messages retained across several years"
-  - label: "MATCHES"
-    value: "870"
-    detail: "Matches preserved within the behavioural archive"
-citations:
-  - label: "Duportail, J. (2017, September 26). I asked Tinder for my data. It sent me 800 pages of my deepest, darkest secrets. The Guardian."
-    url: "https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold"
-    note: "FIRST-PERSON INVESTIGATION"
-  - label: "Duportail, J. (2019). L'amour sous algorithme. Éditions Goutte d'Or."
-    url: ""
-    note: "FIRST-PERSON INVESTIGATION"
+- label: ARCHIVE
+  value: 800 pp
+  detail: Length of the user archive returned by Tinder
+- label: OPENINGS
+  value: '920'
+  detail: Recorded occasions when the application was opened
+- label: MESSAGES
+  value: '1,700'
+  detail: Private messages retained across several years
+- label: MATCHES
+  value: '870'
+  detail: Matches preserved within the behavioural archive
+source_refs:
+- duportail-j-2017-september-26-i-asked-tinder-for-c1b49bb
+- duportail-j-2019-l-amour-sous-algorithme-7af0bbc
 related:
-  - "20"
-  - "22"
+- '20'
+- '22'
 ---
-
 ## Context
 
 A personal history returned as 800 pages of platform memory.

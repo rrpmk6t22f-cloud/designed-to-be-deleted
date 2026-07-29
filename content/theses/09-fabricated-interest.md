@@ -1,34 +1,34 @@
 ---
-title: "A measurable share of the interest shown to users was fabricated."
-slug: "fabricated-interest"
+title: A measurable share of the interest shown to users was fabricated.
+slug: fabricated-interest
 number: 9
 weight: 9
-part: "PART ONE — THE PORTFOLIO"
-summary: "The notification looked romantic. The account was already suspected of being fake."
-description: "The Federal Trade Commission alleged that between June 2016 and May 2018, nearly 500,000 subscriptions were purchased within twenty-four hours of a user receiving a message from an account the company had already flagged as likely fraudulent."
+part: PART ONE — THE PORTFOLIO
+summary: The notification looked romantic. The account was already suspected of being
+  fake.
+description: The Federal Trade Commission alleged that between June 2016 and May 2018,
+  nearly 500,000 subscriptions were purchased within twenty-four hours of a user receiving
+  a message from an account the company had already flagged as likely fraudulent.
 draft: false
 traits:
-  - label: "SUBSCRIPTIONS"
-    value: "~500K"
-    detail: "Subscriptions purchased within twenty-four hours of contact"
-  - label: "FLAGGED ACCOUNTS"
-    value: "~90%"
-    detail: "Flagged accounts later confirmed as fraudulent"
-  - label: "SETTLEMENT"
-    value: "$14M"
-    detail: "Case settled without an admission of liability"
-  - label: "PERIOD"
-    value: "2016–18"
-    detail: "Period covered by the Federal Trade Commission allegation"
-citations:
-  - label: "Federal Trade Commission. (2025, August 12). Match Group to pay $14 million to settle FTC charges over deceptive advertising and subscription practices [Press release]."
-    url: "https://www.ftc.gov"
-    note: "REGULATORY ACTION"
+- label: SUBSCRIPTIONS
+  value: "~500K"
+  detail: Subscriptions purchased within twenty-four hours of contact
+- label: FLAGGED ACCOUNTS
+  value: "~90%"
+  detail: Flagged accounts later confirmed as fraudulent
+- label: SETTLEMENT
+  value: "$14M"
+  detail: Case settled without an admission of liability
+- label: PERIOD
+  value: 2016–18
+  detail: Period covered by the Federal Trade Commission allegation
+source_refs:
+- federal-trade-commission-2025-august-12-match-group-to-3be7ff1
 related:
-  - "08"
-  - "10"
+- '08'
+- '10'
 ---
-
 ## Context
 
 The notification looked romantic. The account was already suspected of being fake.

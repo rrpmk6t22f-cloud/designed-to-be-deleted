@@ -1,34 +1,33 @@
 ---
-title: "Safety was withheld from the free tier and later sold as an upgrade."
-slug: "safety-became-an-upgrade"
+title: Safety was withheld from the free tier and later sold as an upgrade.
+slug: safety-became-an-upgrade
 number: 10
 weight: 10
-part: "PART ONE — THE PORTFOLIO"
-summary: "One group of users received screening. Another received exposure."
-description: "A joint investigation by ProPublica, Columbia Journalism Investigations and BuzzFeed News established that Match Group screened for registered sex offenders on the paid Match.com service and not on Tinder, OkCupid or Plenty of Fish."
+part: PART ONE — THE PORTFOLIO
+summary: One group of users received screening. Another received exposure.
+description: A joint investigation by ProPublica, Columbia Journalism Investigations
+  and BuzzFeed News established that Match Group screened for registered sex offenders
+  on the paid Match.com service and not on Tinder, OkCupid or Plenty of Fish.
 draft: false
 traits:
-  - label: "SCREENED"
-    value: "Match.com"
-    detail: "Sex-offender screening applied to the paid Match service"
-  - label: "UNSCREENED"
-    value: "3 apps"
-    detail: "Three named free apps lacked equivalent screening"
-  - label: "INCIDENTS"
-    value: "150+"
-    detail: "Reported assault incidents reviewed by investigators"
-  - label: "LATER MODEL"
-    value: "Paid"
-    detail: "Background checks were later offered as paid functionality"
-citations:
-  - label: "Flynn, H., Cousins, K., & Naismith Picciani, E. (2019, December 2). Tinder lets known sex offenders use the app. It's not the only one. ProPublica, Columbia Journalism Investigations & BuzzFeed News."
-    url: "https://www.propublica.org/article/tinder-lets-known-sex-offenders-use-the-app-its-not-the-only-one"
-    note: "INVESTIGATIVE REPORT"
+- label: SCREENED
+  value: Match.com
+  detail: Sex-offender screening applied to the paid Match service
+- label: UNSCREENED
+  value: 3 apps
+  detail: Three named free apps lacked equivalent screening
+- label: INCIDENTS
+  value: 150+
+  detail: Reported assault incidents reviewed by investigators
+- label: LATER MODEL
+  value: Paid
+  detail: Background checks were later offered as paid functionality
+source_refs:
+- flynn-h-cousins-k-naismith-picciani-e-2019-december-c7216c1
 related:
-  - "09"
-  - "11"
+- '09'
+- '11'
 ---
-
 ## Context
 
 One group of users received screening. Another received exposure.

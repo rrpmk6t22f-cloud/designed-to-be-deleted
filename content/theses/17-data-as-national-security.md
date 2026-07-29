@@ -1,37 +1,33 @@
 ---
-title: "The user base has been treated as a national security asset."
-slug: "data-as-national-security"
+title: The user base has been treated as a national security asset.
+slug: data-as-national-security
 number: 17
 weight: 17
-part: "PART TWO — THE GRID"
-summary: "The data was considered too sensitive to remain under foreign ownership."
-description: "Beijing Kunlun Tech acquired a controlling interest in Grindr in 2016 for $93 million and full ownership by 2018."
+part: PART TWO — THE GRID
+summary: The data was considered too sensitive to remain under foreign ownership.
+description: Beijing Kunlun Tech acquired a controlling interest in Grindr in 2016
+  for $93 million and full ownership by 2018.
 draft: false
 traits:
-  - label: "CONTROL"
-    value: "2016"
-    detail: "Controlling investment by Beijing Kunlun Tech"
-  - label: "FULL OWNERSHIP"
-    value: "2018"
-    detail: "Chinese owner completed full acquisition of Grindr"
-  - label: "DIVESTITURE"
-    value: "2019"
-    detail: "United States government ordered the divestiture"
-  - label: "SALE"
-    value: "~$608.5M"
-    detail: "Approximate value of the completed 2020 sale"
-citations:
-  - label: "Committee on Foreign Investment in the United States. (2019). Divestment order, Beijing Kunlun Tech Co. Ltd. / Grindr LLC."
-    url: "https://www.clearymawatch.com/2019/04/cfius-forces-kunlun-to-unwind-2016-acquisition-of-grindr-over-concerns-about-the-protection-of-sensitive-personal-data/"
-    note: "GOVERNMENT ORDER"
-  - label: "Roumeliotis, G., & Alper, A. (2020, June 2). Winning bidder for Grindr has ties to Chinese owner. Reuters."
-    url: "https://www.reuters.com"
-    note: "GOVERNMENT ORDER"
+- label: CONTROL
+  value: '2016'
+  detail: Controlling investment by Beijing Kunlun Tech
+- label: FULL OWNERSHIP
+  value: '2018'
+  detail: Chinese owner completed full acquisition of Grindr
+- label: DIVESTITURE
+  value: '2019'
+  detail: United States government ordered the divestiture
+- label: SALE
+  value: "~$608.5M"
+  detail: Approximate value of the completed 2020 sale
+source_refs:
+- committee-on-foreign-investment-in-the-united-states-2019-03713d8
+- roumeliotis-g-alper-a-2020-june-2-winning-bidder-373aa62
 related:
-  - "16"
-  - "18"
+- '16'
+- '18'
 ---
-
 ## Context
 
 The data was considered too sensitive to remain under foreign ownership.

@@ -29,7 +29,7 @@
       <p class="eyebrow">On this page</p>
       <nav aria-label="On this page">
         <a href="#argument">Argument</a>
-        {{ with .Params.citations }}<a href="#sources">Sources</a>{{ end }}
+        {{ with .Params.source_refs }}<a href="#sources">Sources</a>{{ end }}
         <a href="#related">Related</a>
       </nav>
     </aside>
@@ -37,15 +37,17 @@
       <section id="argument" class="prose">
         {{ .Content }}
       </section>
-      {{ with .Params.citations }}
+      {{ with .Params.source_refs }}
       <section class="sources" id="sources" aria-labelledby="sources-title">
         <h2 id="sources-title">Citations &amp; further reading</h2>
         <ol>
           {{ range . }}
+          {{ with site.GetPage (printf "/sources/%s" .) }}
           <li>
-            {{ if .url }}<a href="{{ .url }}" rel="noopener noreferrer">{{ .label }}</a>{{ else }}<span>{{ .label }}</span>{{ end }}
-            {{ with .note }}<p>{{ . }}</p>{{ end }}
+            {{ if .Params.source_url }}<a href="{{ .Params.source_url }}" rel="noopener noreferrer">{{ .Params.citation }}</a>{{ else }}<span>{{ .Params.citation }}</span>{{ end }}
+            <p>{{ .Params.source_type }}</p>
           </li>
+          {{ end }}
           {{ end }}
         </ol>
       </section>

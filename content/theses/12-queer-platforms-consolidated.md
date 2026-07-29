@@ -1,34 +1,33 @@
 ---
-title: "The consolidation has reached the communities the industry once ignored."
-slug: "queer-platforms-consolidated"
+title: The consolidation has reached the communities the industry once ignored.
+slug: queer-platforms-consolidated
 number: 12
 weight: 12
-part: "PART ONE — THE PORTFOLIO"
-summary: "An independent queer platform became part of the largest dating portfolio."
-description: "HER was founded in 2013 as Dattch by Robyn Exton, built for queer women and non-binary users who had been treated as an afterthought by the mainstream products, and grew to a reported thirteen to fifteen million registered members."
+part: PART ONE — THE PORTFOLIO
+summary: An independent queer platform became part of the largest dating portfolio.
+description: HER was founded in 2013 as Dattch by Robyn Exton, built for queer women
+  and non-binary users who had been treated as an afterthought by the mainstream products,
+  and grew to a reported thirteen to fifteen million registered members.
 draft: false
 traits:
-  - label: "FOUNDED"
-    value: "2013"
-    detail: "Platform originally launched under the name Dattch"
-  - label: "MEMBERS"
-    value: "13–15M"
-    detail: "Registered membership reported before the acquisition"
-  - label: "ACQUIRED"
-    value: "May 2025"
-    detail: "Match Group completed the acquisition in May 2025"
-  - label: "BUYER"
-    value: "Match Group"
-    detail: "Financial terms of the purchase were not disclosed"
-citations:
-  - label: "Bloomberg. (2025, May 20). Match Group acquires 'Her' dating app for queer women."
-    url: "https://mtch.com/single-news/match-group-acquires-her-dating-app-for-queer-women/"
-    note: "ACQUISITION REPORT"
+- label: FOUNDED
+  value: '2013'
+  detail: Platform originally launched under the name Dattch
+- label: MEMBERS
+  value: 13–15M
+  detail: Registered membership reported before the acquisition
+- label: ACQUIRED
+  value: May 2025
+  detail: Match Group completed the acquisition in May 2025
+- label: BUYER
+  value: Match Group
+  detail: Financial terms of the purchase were not disclosed
+source_refs:
+- bloomberg-2025-may-20-match-group-acquires-her-dating-b94ca1f
 related:
-  - "11"
-  - "13"
+- '11'
+- '13'
 ---
-
 ## Context
 
 An independent queer platform became part of the largest dating portfolio.

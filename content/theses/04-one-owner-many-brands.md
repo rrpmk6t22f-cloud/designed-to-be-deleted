@@ -1,34 +1,32 @@
 ---
-title: "Over twenty brands, one owner."
-slug: "one-owner-many-brands"
+title: Over twenty brands, one owner.
+slug: one-owner-many-brands
 number: 4
 weight: 4
-part: "PART ONE — THE PORTFOLIO"
-summary: "Changing apps may only move you to another line in the same earnings report."
-description: "Tinder, Hinge, Match, Meetic, OkCupid, Plenty of Fish, Pairs, Azar, Hakuna, OurTime, BLK, Chispa, Archer, The League, and since May 2025 the sapphic app HER."
+part: PART ONE — THE PORTFOLIO
+summary: Changing apps may only move you to another line in the same earnings report.
+description: Tinder, Hinge, Match, Meetic, OkCupid, Plenty of Fish, Pairs, Azar, Hakuna,
+  OurTime, BLK, Chispa, Archer, The League, and since May 2025 the sapphic app HER.
 draft: false
 traits:
-  - label: "PORTFOLIO"
-    value: "20+"
-    detail: "Dating brands operating across the wider portfolio"
-  - label: "REPORTING"
-    value: "4"
-    detail: "Business lines used in corporate reporting"
-  - label: "HER ACQUIRED"
-    value: "May 2025"
-    detail: "Queer platform added to the portfolio in 2025"
-  - label: "PARENT"
-    value: "Match Group"
-    detail: "Distinct products ultimately report to one owner"
-citations:
-  - label: "Match Group, Inc. (2024). Business overview. https://mtch.com"
-    url: "https://mtch.com"
-    note: "COMPANY STATEMENT"
+- label: PORTFOLIO
+  value: 20+
+  detail: Dating brands operating across the wider portfolio
+- label: REPORTING
+  value: '4'
+  detail: Business lines used in corporate reporting
+- label: HER ACQUIRED
+  value: May 2025
+  detail: Queer platform added to the portfolio in 2025
+- label: PARENT
+  value: Match Group
+  detail: Distinct products ultimately report to one owner
+source_refs:
+- match-group-inc-2024-business-overview-e59d445
 related:
-  - "03"
-  - "05"
+- '03'
+- '05'
 ---
-
 ## Context
 
 Changing apps may only move you to another line in the same earnings report.

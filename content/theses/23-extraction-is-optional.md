@@ -1,34 +1,35 @@
 ---
-title: "The extractive configuration is optional, and some firms have declined it."
-slug: "extraction-is-optional"
+title: The extractive configuration is optional, and some firms have declined it.
+slug: extraction-is-optional
 number: 23
 weight: 23
-part: "PART THREE — REFUSALS"
-summary: "Another company faced the same risks and made a different decision."
-description: "Perry Street Software, which operates Scruff and Jack'd and reaches a reported thirty million members, removed third-party programmatic advertising from its products in 2018 and stripped other companies' software development kits out of its applications at what its chief executive describes as tremendous cost in time and money."
+part: PART THREE — REFUSALS
+summary: Another company faced the same risks and made a different decision.
+description: Perry Street Software, which operates Scruff and Jack'd and reaches a
+  reported thirty million members, removed third-party programmatic advertising from
+  its products in 2018 and stripped other companies' software development kits out
+  of its applications at what its chief executive describes as tremendous cost in
+  time and money.
 draft: false
 traits:
-  - label: "PROGRAMMATIC ADS"
-    value: "2018"
-    detail: "Year third-party programmatic advertising was removed"
-  - label: "THIRD-PARTY SDKs"
-    value: "Removed"
-    detail: "External software-development kits were also removed"
-  - label: "MEMBERS"
-    value: "~30M"
-    detail: "Reported membership across Scruff and Jack’d"
-  - label: "DATA SALES"
-    value: "None"
-    detail: "Company states that it does not sell user data"
-citations:
-  - label: "Perry Street Software. (n.d.). Privacy at Perry Street Software. https://www.perrystreet.com"
-    url: "https://www.perrystreet.com"
-    note: "COMPANY PRIVACY STATEMENT"
+- label: PROGRAMMATIC ADS
+  value: '2018'
+  detail: Year third-party programmatic advertising was removed
+- label: THIRD-PARTY SDKs
+  value: Removed
+  detail: External software-development kits were also removed
+- label: MEMBERS
+  value: "~30M"
+  detail: Reported membership across Scruff and Jack’d
+- label: DATA SALES
+  value: None
+  detail: Company states that it does not sell user data
+source_refs:
+- perry-street-software-n-d-privacy-at-perry-street-bd9f1b6
 related:
-  - "22"
-  - "24"
+- '22'
+- '24'
 ---
-
 ## Context
 
 Another company faced the same risks and made a different decision.

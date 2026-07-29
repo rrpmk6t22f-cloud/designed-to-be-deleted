@@ -1,37 +1,33 @@
 ---
-title: "The revenue model is indifferent to whether a user succeeds, and is mildly penalised when one does."
-slug: "success-ends-subscriptions"
+title: The revenue model is indifferent to whether a user succeeds, and is mildly
+  penalised when one does.
+slug: success-ends-subscriptions
 number: 2
 weight: 2
-part: "PART ONE — THE PORTFOLIO"
-summary: "A successful relationship removes two potential subscribers."
-description: "Two people who stay together cancel two subscriptions."
+part: PART ONE — THE PORTFOLIO
+summary: A successful relationship removes two potential subscribers.
+description: Two people who stay together cancel two subscriptions.
 draft: false
 traits:
-  - label: "SUCCESSFUL MATCH"
-    value: "2 exits"
-    detail: "A successful relationship may end two subscriptions"
-  - label: "PLATFORM METRICS"
-    value: "Payers/churn"
-    detail: "Retention is tracked through payers and churn"
-  - label: "USER GOAL"
-    value: "Exit"
-    detail: "The user’s desired outcome is leaving the product"
-  - label: "STRUCTURAL TENSION"
-    value: "Opposed"
-    detail: "Platform retention and user resolution point opposite ways"
-citations:
-  - label: "Planet Money. (2024, February 13). The dating app paradox [Audio podcast episode]. NPR."
-    url: "https://www.npr.org/sections/planet-money/"
-    note: "JOURNALISM / SCHOLARSHIP"
-  - label: "Srnicek, N. (2016). Platform capitalism. Polity Press."
-    url: ""
-    note: "JOURNALISM / SCHOLARSHIP"
+- label: SUCCESSFUL MATCH
+  value: 2 exits
+  detail: A successful relationship may end two subscriptions
+- label: PLATFORM METRICS
+  value: Payers/churn
+  detail: Retention is tracked through payers and churn
+- label: USER GOAL
+  value: Exit
+  detail: The user’s desired outcome is leaving the product
+- label: STRUCTURAL TENSION
+  value: Opposed
+  detail: Platform retention and user resolution point opposite ways
+source_refs:
+- planet-money-2024-february-13-the-dating-app-paradox-eac98fc
+- srnicek-n-2016-platform-capitalism-50e1aa2
 related:
-  - "01"
-  - "03"
+- '01'
+- '03'
 ---
-
 ## Context
 
 A successful relationship removes two potential subscribers.

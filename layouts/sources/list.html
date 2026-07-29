@@ -1,0 +1,56 @@
+{{ define "main" }}
+<section class="source-index" aria-labelledby="sources-title">
+  <header class="source-index-hero">
+    <p class="eyebrow">Research ledger</p>
+    <h1 id="sources-title">Sources</h1>
+    <p>Every corporate filing, investigation, study, policy document, book, and testimony cited across the thirty-one theses—kept in one cross-referenced index.</p>
+  </header>
+
+  <div class="source-tools" role="search">
+    <label for="source-search">Search the index</label>
+    <div class="search-row">
+      <input id="source-search" type="search" placeholder="Search author, title, type, or thesis…" autocomplete="off">
+      <button id="clear-source-search" type="button">Clear</button>
+    </div>
+    <p><strong id="source-count">{{ len .Pages }}</strong> sources</p>
+  </div>
+
+  <div class="source-table-wrap">
+    <table class="source-table">
+      <thead>
+        <tr>
+          <th scope="col">No.</th>
+          <th scope="col">Source</th>
+          <th scope="col">Type</th>
+          <th scope="col">Used in</th>
+          <th scope="col"><span class="visually-hidden">Open</span></th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $index, $source := .Pages.ByTitle }}
+        <tr data-source-row data-search="{{ lower (printf "%s %s %s %v" $source.Title $source.Params.author_year $source.Params.source_type $source.Params.thesis_numbers) }}">
+          <td>{{ printf "%02d" (add $index 1) }}</td>
+          <td>
+            <strong>{{ $source.Title }}</strong>
+            <span>{{ $source.Params.author_year }}</span>
+          </td>
+          <td><span class="source-type">{{ $source.Params.source_type }}</span></td>
+          <td class="source-theses">
+            {{ range $source.Params.thesis_numbers }}
+              {{ $number := . }}
+              {{ range where site.RegularPages "Section" "theses" }}
+                {{ if eq (printf "%02d" .Params.number) $number }}<a href="{{ .RelPermalink }}" aria-label="Thesis {{ $number }}">{{ $number }}</a>{{ end }}
+              {{ end }}
+            {{ end }}
+          </td>
+          <td>
+            {{ with $source.Params.source_url }}<a class="source-open" href="{{ . }}" rel="noopener noreferrer" aria-label="Open source: {{ $source.Title }}">↗</a>{{ else }}<span class="source-open is-muted" aria-label="No public link">—</span>{{ end }}
+          </td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  <p class="empty-state" id="source-empty" hidden>No source matches that search.</p>
+</section>
+{{ end }}

@@ -1,34 +1,31 @@
 ---
-title: "Removing a filter is not the same as removing the sorting."
-slug: "filtering-is-not-sorting"
+title: Removing a filter is not the same as removing the sorting.
+slug: filtering-is-not-sorting
 number: 26
 weight: 26
-part: "PART THREE — REFUSALS"
-summary: "The menu disappeared. The distribution remained."
-description: "Every major platform disabled ethnicity filtering in 2020."
+part: PART THREE — REFUSALS
+summary: The menu disappeared. The distribution remained.
+description: Every major platform disabled ethnicity filtering in 2020.
 draft: false
 traits:
-  - label: "VISIBLE FILTER"
-    value: "Removed"
-    detail: "Visible ethnicity control removed from the interface"
-  - label: "SORTING PATTERNS"
-    value: "Persist"
-    detail: "Underlying behavioural sorting patterns may still persist"
-  - label: "HISTORICAL PENALTY"
-    value: "Black users"
-    detail: "Historical platform data showed penalties for Black users"
-  - label: "CURRENT DATA"
-    value: "Unpublished"
-    detail: "Current response distributions have not been published"
-citations:
-  - label: "Rudder, C. (2014). Dataclysm: Who we are when we think no one's looking. Crown."
-    url: ""
-    note: "PLATFORM-DATA ANALYSIS"
+- label: VISIBLE FILTER
+  value: Removed
+  detail: Visible ethnicity control removed from the interface
+- label: SORTING PATTERNS
+  value: Persist
+  detail: Underlying behavioural sorting patterns may still persist
+- label: HISTORICAL PENALTY
+  value: Black users
+  detail: Historical platform data showed penalties for Black users
+- label: CURRENT DATA
+  value: Unpublished
+  detail: Current response distributions have not been published
+source_refs:
+- rudder-c-2014-dataclysm-who-we-are-when-we-52d2f5e
 related:
-  - "25"
-  - "27"
+- '25'
+- '27'
 ---
-
 ## Context
 
 The menu disappeared. The distribution remained.

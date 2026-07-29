@@ -5,6 +5,11 @@ const count = document.querySelector("#result-count");
 const empty = document.querySelector("#empty-state");
 const filterButtons = [...document.querySelectorAll(".filter-button")];
 const shareButton = document.querySelector(".share-button");
+const sourceSearch = document.querySelector("#source-search");
+const clearSourceSearch = document.querySelector("#clear-source-search");
+const sourceRows = [...document.querySelectorAll("[data-source-row]")];
+const sourceCount = document.querySelector("#source-count");
+const sourceEmpty = document.querySelector("#source-empty");
 let activeFilter = "all";
 
 function filterCards() {
@@ -65,4 +70,23 @@ shareButton?.addEventListener("click", async () => {
       label.textContent = "Copy failed";
     }
   }
+});
+
+function filterSources() {
+  const query = sourceSearch?.value.trim().toLocaleLowerCase() ?? "";
+  let visible = 0;
+  sourceRows.forEach((row) => {
+    const match = row.dataset.search.includes(query);
+    row.hidden = !match;
+    if (match) visible += 1;
+  });
+  if (sourceCount) sourceCount.textContent = visible;
+  if (sourceEmpty) sourceEmpty.hidden = visible !== 0;
+}
+
+sourceSearch?.addEventListener("input", filterSources);
+clearSourceSearch?.addEventListener("click", () => {
+  sourceSearch.value = "";
+  filterSources();
+  sourceSearch.focus();
 });

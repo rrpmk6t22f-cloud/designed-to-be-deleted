@@ -1,37 +1,36 @@
 ---
-title: "The same infrastructure is the lifeline and the trap."
-slug: "lifeline-and-trap"
+title: The same infrastructure is the lifeline and the trap.
+slug: lifeline-and-trap
 number: 28
 weight: 28
-part: "PART FOUR — THE OTHER LEDGER"
-summary: "The same app can enable connection, entrapment and emergency warning."
-description: "Human Rights Watch documented in a 135-page report how security forces in Egypt, Iraq, Jordan, Lebanon and Tunisia create fake profiles to entrap users, producing prosecution, torture and extortion; a twenty-seven-year-old Egyptian man recounted recognising, in the police report, that the man he had met on Grindr was one of the officers."
+part: PART FOUR — THE OTHER LEDGER
+summary: The same app can enable connection, entrapment and emergency warning.
+description: Human Rights Watch documented in a 135-page report how security forces
+  in Egypt, Iraq, Jordan, Lebanon and Tunisia create fake profiles to entrap users,
+  producing prosecution, torture and extortion; a twenty-seven-year-old Egyptian man
+  recounted recognising, in the police report, that the man he had met on Grindr was
+  one of the officers.
 draft: false
 traits:
-  - label: "COUNTRIES"
-    value: "5"
-    detail: "Countries covered by the Human Rights Watch investigation"
-  - label: "EGYPT ARRESTS"
-    value: "70+"
-    detail: "People arrested after the 2017 Cairo concert"
-  - label: "2023 ARRESTS"
-    value: "35–40"
-    detail: "Further arrests reported during 2023"
-  - label: "WARNINGS"
-    value: "Hourly"
-    detail: "Safety alerts sent to Grindr users in Egypt"
-citations:
-  - label: "Human Rights Watch. (2023). \"All this terror because of a photo\": Digital targeting and its offline consequences for LGBT people in the Middle East and North Africa."
-    url: "https://www.hrw.org"
-    note: "HUMAN-RIGHTS REPORT"
-  - label: "ARTICLE 19. (2018). Apps, arrests and abuse in Egypt, Lebanon and Iran."
-    url: "https://www.article19.org/resources/apps-traps-dating-apps-must-protect-communities-middle-east-north-africa/"
-    note: "HUMAN-RIGHTS REPORT"
+- label: COUNTRIES
+  value: '5'
+  detail: Countries covered by the Human Rights Watch investigation
+- label: EGYPT ARRESTS
+  value: 70+
+  detail: People arrested after the 2017 Cairo concert
+- label: 2023 ARRESTS
+  value: 35–40
+  detail: Further arrests reported during 2023
+- label: WARNINGS
+  value: Hourly
+  detail: Safety alerts sent to Grindr users in Egypt
+source_refs:
+- human-rights-watch-2023-all-this-terror-because-of-a9937d6
+- article-19-2018-apps-arrests-and-abuse-in-egypt-6fe170a
 related:
-  - "27"
-  - "29"
+- '27'
+- '29'
 ---
-
 ## Context
 
 The same app can enable connection, entrapment and emergency warning.

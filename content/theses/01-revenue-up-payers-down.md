@@ -1,34 +1,33 @@
 ---
-title: "Revenue per user rises while the number of users falls."
-slug: "revenue-up-payers-down"
+title: Revenue per user rises while the number of users falls.
+slug: revenue-up-payers-down
 number: 1
 weight: 1
-part: "PART ONE — THE PORTFOLIO"
-summary: "Fewer paying users. More revenue extracted from each one."
-description: "Match Group closed 2025 with revenue of $3.487 billion against average payers of 14.165 million, down five percent year on year, at a revenue per payer of $20.09, up five percent."
+part: PART ONE — THE PORTFOLIO
+summary: Fewer paying users. More revenue extracted from each one.
+description: Match Group closed 2025 with revenue of $3.487 billion against average
+  payers of 14.165 million, down five percent year on year, at a revenue per payer
+  of $20.09, up five percent.
 draft: false
 traits:
-  - label: "AVERAGE PAYERS"
-    value: "14.2M"
-    detail: "Average paying users, down 5% year on year"
-  - label: "REVENUE PER PAYER"
-    value: "$20.09"
-    detail: "Monthly revenue per payer, up 5% year on year"
-  - label: "2025 REVENUE"
-    value: "$3.487B"
-    detail: "Full-year revenue reported by Match Group"
-  - label: "Q4 EBITDA MARGIN"
-    value: "42%"
-    detail: "Adjusted margin reported for the fourth quarter"
-citations:
-  - label: "Match Group, Inc. (2026). Fourth quarter and full year 2025 earnings release. https://ir.mtch.com"
-    url: "https://ir.mtch.com"
-    note: "CORPORATE FILING"
+- label: AVERAGE PAYERS
+  value: 14.2M
+  detail: Average paying users, down 5% year on year
+- label: REVENUE PER PAYER
+  value: "$20.09"
+  detail: Monthly revenue per payer, up 5% year on year
+- label: 2025 REVENUE
+  value: "$3.487B"
+  detail: Full-year revenue reported by Match Group
+- label: Q4 EBITDA MARGIN
+  value: 42%
+  detail: Adjusted margin reported for the fourth quarter
+source_refs:
+- match-group-inc-2026-fourth-quarter-and-full-year-399e2e7
 related:
-  - "31"
-  - "02"
+- '31'
+- '02'
 ---
-
 ## Context
 
 Fewer paying users. More revenue extracted from each one.

@@ -1,37 +1,34 @@
 ---
-title: "The successor product removes the other person."
-slug: "companionship-without-reciprocity"
+title: The successor product removes the other person.
+slug: companionship-without-reciprocity
 number: 30
 weight: 30
-part: "PART FOUR — THE OTHER LEDGER"
-summary: "Companionship remains. Reciprocity disappears."
-description: "Character.AI reports roughly twenty million monthly active users and claims an average of about two hours a day on its own definition of activity; Google licensed its technology for a reported $2.7 billion in August 2024."
+part: PART FOUR — THE OTHER LEDGER
+summary: Companionship remains. Reciprocity disappears.
+description: Character.AI reports roughly twenty million monthly active users and
+  claims an average of about two hours a day on its own definition of activity; Google
+  licensed its technology for a reported $2.7 billion in August 2024.
 draft: false
 traits:
-  - label: "MONTHLY USERS"
-    value: "~20M"
-    detail: "Monthly active users reported by Character.AI"
-  - label: "ACTIVITY"
-    value: "~2h/day"
-    detail: "Average daily activity claimed by the company"
-  - label: "GOOGLE DEAL"
-    value: "$2.7B"
-    detail: "Reported value of Google’s technology licensing agreement"
-  - label: "CA LAW"
-    value: "Jan 2026"
-    detail: "California companion-chatbot law entered into force"
-citations:
-  - label: "Turkle, S. (2011). Alone together: Why we expect more from technology and less from each other. Basic Books."
-    url: ""
-    note: "LITIGATION / SCHOLARSHIP"
-  - label: "Garcia v. Character Technologies, Inc., No. 6:24-cv-01903 (M.D. Fla. filed Oct. 22, 2024)."
-    url: ""
-    note: "LITIGATION / SCHOLARSHIP"
+- label: MONTHLY USERS
+  value: "~20M"
+  detail: Monthly active users reported by Character.AI
+- label: ACTIVITY
+  value: "~2h/day"
+  detail: Average daily activity claimed by the company
+- label: GOOGLE DEAL
+  value: "$2.7B"
+  detail: Reported value of Google’s technology licensing agreement
+- label: CA LAW
+  value: Jan 2026
+  detail: California companion-chatbot law entered into force
+source_refs:
+- turkle-s-2011-alone-together-why-we-expect-more-0e59beb
+- garcia-v-character-technologies-inc-no-ec88048
 related:
-  - "29"
-  - "31"
+- '29'
+- '31'
 ---
-
 ## Context
 
 Companionship remains. Reciprocity disappears.

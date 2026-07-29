@@ -1,34 +1,34 @@
 ---
-title: "The risk is distributed globally and the revenue is not."
-slug: "global-risk-concentrated-revenue"
+title: The risk is distributed globally and the revenue is not.
+slug: global-risk-concentrated-revenue
 number: 15
 weight: 15
-part: "PART TWO — THE GRID"
-summary: "Exposure travels everywhere. Monetisation remains concentrated where visibility is safer."
-description: "Grindr states that it has users in more than 190 countries and territories, and that North America and Europe generated eighty-four percent of total revenue in the first half of 2025."
+part: PART TWO — THE GRID
+summary: Exposure travels everywhere. Monetisation remains concentrated where visibility
+  is safer.
+description: Grindr states that it has users in more than 190 countries and territories,
+  and that North America and Europe generated eighty-four percent of total revenue
+  in the first half of 2025.
 draft: false
 traits:
-  - label: "GLOBAL REACH"
-    value: "190+"
-    detail: "Service availability across countries and territories"
-  - label: "NA + EUROPE"
-    value: "84%"
-    detail: "Revenue generated in North America and Europe"
-  - label: "RISK"
-    value: "Global"
-    detail: "Personal exposure is distributed across the global network"
-  - label: "REVENUE"
-    value: "Few markets"
-    detail: "Commercial returns remain concentrated in safer markets"
-citations:
-  - label: "Grindr Inc. (2025). Quarterly report (Form 10-Q), period ended June 30, 2025. U.S. Securities and Exchange Commission."
-    url: "https://www.sec.gov/Archives/edgar/data/1820144/000182014425000035/grnd-20250630.htm"
-    note: "CORPORATE FILING"
+- label: GLOBAL REACH
+  value: 190+
+  detail: Service availability across countries and territories
+- label: NA + EUROPE
+  value: 84%
+  detail: Revenue generated in North America and Europe
+- label: RISK
+  value: Global
+  detail: Personal exposure is distributed across the global network
+- label: REVENUE
+  value: Few markets
+  detail: Commercial returns remain concentrated in safer markets
+source_refs:
+- grindr-inc-2025-quarterly-report-form-10-q-period-137c240
 related:
-  - "14"
-  - "16"
+- '14'
+- '16'
 ---
-
 ## Context
 
 Exposure travels everywhere. Monetisation remains concentrated where visibility is safer.

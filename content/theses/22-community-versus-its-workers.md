@@ -1,34 +1,33 @@
 ---
-title: "The company that sells community suppressed its own."
-slug: "community-versus-its-workers"
+title: The company that sells community suppressed its own.
+slug: community-versus-its-workers
 number: 22
 weight: 22
-part: "PART TWO — THE GRID"
-summary: "A return-to-office mandate followed a union campaign. Half the workforce left."
-description: "In July 2023 a supermajority of Grindr's staff announced their intention to unionise with the Communications Workers of America."
+part: PART TWO — THE GRID
+summary: A return-to-office mandate followed a union campaign. Half the workforce
+  left.
+description: In July 2023 a supermajority of Grindr's staff announced their intention
+  to unionise with the Communications Workers of America.
 draft: false
 traits:
-  - label: "WORKFORCE"
-    value: "178"
-    detail: "Total workforce before the contested return-to-office mandate"
-  - label: "LEFT"
-    value: "~80"
-    detail: "Employees who departed rather than relocate"
-  - label: "DECISION"
-    value: "2 weeks"
-    detail: "Time provided to make the relocation decision"
-  - label: "NLRB COMPLAINT"
-    value: "Nov 2024"
-    detail: "Date the labour-board complaint was issued"
-citations:
-  - label: "National Labor Relations Board. (2024, November 1). Complaint against Grindr LLC, Region 21, Los Angeles."
-    url: "https://www.nlrb.gov"
-    note: "LABOUR-BOARD COMPLAINT"
+- label: WORKFORCE
+  value: '178'
+  detail: Total workforce before the contested return-to-office mandate
+- label: LEFT
+  value: "~80"
+  detail: Employees who departed rather than relocate
+- label: DECISION
+  value: 2 weeks
+  detail: Time provided to make the relocation decision
+- label: NLRB COMPLAINT
+  value: Nov 2024
+  detail: Date the labour-board complaint was issued
+source_refs:
+- national-labor-relations-board-2024-november-1-complaint-against-2cbb540
 related:
-  - "21"
-  - "23"
+- '21'
+- '23'
 ---
-
 ## Context
 
 A return-to-office mandate followed a union campaign. Half the workforce left.

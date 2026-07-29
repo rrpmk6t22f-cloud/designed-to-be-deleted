@@ -1,37 +1,32 @@
 ---
-title: "Regulators have named the mechanism without halting it."
-slug: "named-not-stopped"
+title: Regulators have named the mechanism without halting it.
+slug: named-not-stopped
 number: 31
 weight: 31
-part: "PART FOUR — THE OTHER LEDGER"
-summary: "The dark pattern is prohibited. The like limit remains."
-description: "Article 25 of the Digital Services Act prohibits dark-pattern interfaces."
+part: PART FOUR — THE OTHER LEDGER
+summary: The dark pattern is prohibited. The like limit remains.
+description: Article 25 of the Digital Services Act prohibits dark-pattern interfaces.
 draft: false
 traits:
-  - label: "EP VOTE"
-    value: "545–12"
-    detail: "European Parliament vote on addictive digital design"
-  - label: "ANNUAL HARM"
-    value: "≥€7.9B"
-    detail: "Estimated yearly harm from unfair digital practices"
-  - label: "DIGITAL FAIRNESS ACT"
-    value: "Late 2026"
-    detail: "Expected timing of the Digital Fairness Act proposal"
-  - label: "STATUS"
-    value: "Active"
-    detail: "Named mechanisms remain active despite regulatory recognition"
-citations:
-  - label: "European Commission. (2024). Digital fairness — Fitness check on EU consumer law (Staff Working Document)."
-    url: "https://commission.europa.eu"
-    note: "LEGISLATION / POLICY REVIEW"
-  - label: "European Parliament. (2023, December 12). Resolution on addictive design of online services and consumer protection."
-    url: "https://www.europarl.europa.eu"
-    note: "LEGISLATION / POLICY REVIEW"
+- label: EP VOTE
+  value: 545–12
+  detail: European Parliament vote on addictive digital design
+- label: ANNUAL HARM
+  value: "≥€7.9B"
+  detail: Estimated yearly harm from unfair digital practices
+- label: DIGITAL FAIRNESS ACT
+  value: Late 2026
+  detail: Expected timing of the Digital Fairness Act proposal
+- label: STATUS
+  value: Active
+  detail: Named mechanisms remain active despite regulatory recognition
+source_refs:
+- european-commission-2024-digital-fairness-fitness-check-on-eu-c27c9b8
+- european-parliament-2023-december-12-resolution-on-addictive-design-2ae1f5e
 related:
-  - "30"
-  - "01"
+- '30'
+- '01'
 ---
-
 ## Context
 
 The dark pattern is prohibited. The like limit remains.

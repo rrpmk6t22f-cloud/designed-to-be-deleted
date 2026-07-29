@@ -1,37 +1,35 @@
 ---
-title: "Price is set by demography."
-slug: "demographic-pricing"
+title: Price is set by demography.
+slug: demographic-pricing
 number: 8
 weight: 8
-part: "PART ONE — THE PORTFOLIO"
-summary: "The same country. The same subscription. A different price."
-description: "Mozilla and Consumers International found Tinder operating up to thirty-one distinct price points for the same subscription within a single country, a spread of up to five times for identical service: $4.99 to $26.99 in the United States, $4.45 to $25.95 in the Netherlands."
+part: PART ONE — THE PORTFOLIO
+summary: The same country. The same subscription. A different price.
+description: 'Mozilla and Consumers International found Tinder operating up to thirty-one
+  distinct price points for the same subscription within a single country, a spread
+  of up to five times for identical service: $4.99 to $26.99 in the United States,
+  $4.45 to $25.95 in the Netherlands.'
 draft: false
 traits:
-  - label: "PRICE POINTS"
-    value: "31"
-    detail: "Distinct prices offered within a single country"
-  - label: "PRICE SPREAD"
-    value: "5×"
-    detail: "Maximum spread found for an identical subscription"
-  - label: "AGE EFFECT"
-    value: "+65.3%"
-    detail: "Older users paid more on average across markets"
-  - label: "COUNTRIES"
-    value: "6"
-    detail: "Countries included in the international pricing investigation"
-citations:
-  - label: "Mozilla Foundation & Consumers International. (2022). A consumer investigation into personalised pricing."
-    url: "https://foundation.mozilla.org"
-    note: "CONSUMER INVESTIGATION / COURT RECORD"
-  - label: "Kim v. Tinder, Inc., No. 2:18-cv-03093 (C.D. Cal. 2019)."
-    url: ""
-    note: "CONSUMER INVESTIGATION / COURT RECORD"
+- label: PRICE POINTS
+  value: '31'
+  detail: Distinct prices offered within a single country
+- label: PRICE SPREAD
+  value: 5×
+  detail: Maximum spread found for an identical subscription
+- label: AGE EFFECT
+  value: "+65.3%"
+  detail: Older users paid more on average across markets
+- label: COUNTRIES
+  value: '6'
+  detail: Countries included in the international pricing investigation
+source_refs:
+- mozilla-foundation-consumers-international-2022-a-consumer-investigation-into-b707d8e
+- kim-v-tinder-inc-no-0ee4925
 related:
-  - "07"
-  - "09"
+- '07'
+- '09'
 ---
-
 ## Context
 
 The same country. The same subscription. A different price.

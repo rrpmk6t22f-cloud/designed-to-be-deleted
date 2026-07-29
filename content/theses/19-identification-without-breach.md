@@ -1,34 +1,34 @@
 ---
-title: "A man was identified using data that nobody had to steal."
-slug: "identification-without-breach"
+title: A man was identified using data that nobody had to steal.
+slug: identification-without-breach
 number: 19
 weight: 19
-part: "PART TWO — THE GRID"
-summary: "No breach was required. The signals were commercially available."
-description: "In July 2021 the Catholic outlet *The Pillar* reported that commercially available app signal data showed a device correlated to Monsignor Jeffrey Burrill emitting Grindr signals on a near-daily basis through parts of 2018, 2019 and 2020, at his office, his residence and at conference events."
+part: PART TWO — THE GRID
+summary: No breach was required. The signals were commercially available.
+description: In July 2021 the Catholic outlet *The Pillar* reported that commercially
+  available app signal data showed a device correlated to Monsignor Jeffrey Burrill
+  emitting Grindr signals on a near-daily basis through parts of 2018, 2019 and 2020,
+  at his office, his residence and at conference events.
 draft: false
 traits:
-  - label: "PERIOD"
-    value: "2018–20"
-    detail: "Period covered by the commercially sourced signals"
-  - label: "DATA"
-    value: "App signals"
-    detail: "Mobile-app activity purchased through the commercial market"
-  - label: "LOCATIONS"
-    value: "3 settings"
-    detail: "Work, home and event locations were correlated"
-  - label: "BREACH"
-    value: "None"
-    detail: "No breach of Grindr’s database was required"
-citations:
-  - label: "Bedoya, A., quoted in Associated Press. (2021, July 22). Priest outed via Grindr app highlights rampant data tracking."
-    url: "https://time.com/6083323/bishop-pillar-grindr-data/"
-    note: "INVESTIGATIVE REPORT"
+- label: PERIOD
+  value: 2018–20
+  detail: Period covered by the commercially sourced signals
+- label: DATA
+  value: App signals
+  detail: Mobile-app activity purchased through the commercial market
+- label: LOCATIONS
+  value: 3 settings
+  detail: Work, home and event locations were correlated
+- label: BREACH
+  value: None
+  detail: No breach of Grindr’s database was required
+source_refs:
+- bedoya-a-quoted-in-associated-press-2021-july-22-bbe2305
 related:
-  - "18"
-  - "20"
+- '18'
+- '20'
 ---
-
 ## Context
 
 No breach was required. The signals were commercially available.

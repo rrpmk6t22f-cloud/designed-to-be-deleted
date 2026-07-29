@@ -1,34 +1,32 @@
 ---
-title: "The scarcity is manufactured, and the removal of the scarcity is the product."
-slug: "manufactured-scarcity"
+title: The scarcity is manufactured, and the removal of the scarcity is the product.
+slug: manufactured-scarcity
 number: 3
 weight: 3
-part: "PART ONE — THE PORTFOLIO"
-summary: "The platform introduces the restriction. Then it sells its removal."
-description: "Daily like limits, concealed incoming likes, restricted rewinds, Boosts, Super Likes, Tinder Plus, Gold, Platinum and Select, Hinge Plus and HingeX."
+part: PART ONE — THE PORTFOLIO
+summary: The platform introduces the restriction. Then it sells its removal.
+description: Daily like limits, concealed incoming likes, restricted rewinds, Boosts,
+  Super Likes, Tinder Plus, Gold, Platinum and Select, Hinge Plus and HingeX.
 draft: false
 traits:
-  - label: "RESTRICTION"
-    value: "Hidden"
-    detail: "Incoming likes are concealed by platform design"
-  - label: "PAID REMOVAL"
-    value: "Unlock"
-    detail: "Identity of incoming likes becomes a subscription feature"
-  - label: "VISIBILITY"
-    value: "Boost"
-    detail: "Temporary profile visibility is sold separately"
-  - label: "REWIND"
-    value: "Premium"
-    detail: "A paid tier restores the removed rewind"
-citations:
-  - label: "Match Group, Inc. (2026). Annual report (Form 10-K) for the fiscal year ended December 31, 2025. U.S. Securities and Exchange Commission."
-    url: "https://www.sec.gov/edgar/browse/?CIK=0000891103"
-    note: "CORPORATE FILING"
+- label: RESTRICTION
+  value: Hidden
+  detail: Incoming likes are concealed by platform design
+- label: PAID REMOVAL
+  value: Unlock
+  detail: Identity of incoming likes becomes a subscription feature
+- label: VISIBILITY
+  value: Boost
+  detail: Temporary profile visibility is sold separately
+- label: REWIND
+  value: Premium
+  detail: A paid tier restores the removed rewind
+source_refs:
+- match-group-inc-2026-annual-report-form-10-k-ec972bb
 related:
-  - "02"
-  - "04"
+- '02'
+- '04'
 ---
-
 ## Context
 
 The platform introduces the restriction. Then it sells its removal.

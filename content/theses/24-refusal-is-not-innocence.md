@@ -1,37 +1,34 @@
 ---
-title: "Refusal is not innocence."
-slug: "refusal-is-not-innocence"
+title: Refusal is not innocence.
+slug: refusal-is-not-innocence
 number: 24
 weight: 24
-part: "PART THREE — REFUSALS"
-summary: "Doing better on one mechanism does not make a platform clean."
-description: "Jack'd, acquired by Perry Street in 2019, paid $240,000 to approximately 7,000 users in a settlement with the New York Attorney General over a security flaw that left private photographs accessible."
+part: PART THREE — REFUSALS
+summary: Doing better on one mechanism does not make a platform clean.
+description: Jack'd, acquired by Perry Street in 2019, paid $240,000 to approximately
+  7,000 users in a settlement with the New York Attorney General over a security flaw
+  that left private photographs accessible.
 draft: false
 traits:
-  - label: "SETTLEMENT"
-    value: "$240K"
-    detail: "Settlement concerning exposure of users’ private photographs"
-  - label: "USERS"
-    value: "~7K"
-    detail: "Approximate number of users affected by the flaw"
-  - label: "FILTERS"
-    value: "Jun 2020"
-    detail: "Ethnicity filters disabled across both applications"
-  - label: "ASSESSMENT"
-    value: "Partial"
-    detail: "An improvement on one mechanism, not absolution"
-citations:
-  - label: "Office of the New York State Attorney General. (2019). Settlement with Online Buddies, Inc. (Jack'd)."
-    url: "https://ag.ny.gov"
-    note: "REGULATORY SETTLEMENT / CRITICISM"
-  - label: "Henderson, T. (2020, June). Removing the ethnicity filter is not fighting racism. Pride.com."
-    url: "https://www.pride.com"
-    note: "REGULATORY SETTLEMENT / CRITICISM"
+- label: SETTLEMENT
+  value: "$240K"
+  detail: Settlement concerning exposure of users’ private photographs
+- label: USERS
+  value: "~7K"
+  detail: Approximate number of users affected by the flaw
+- label: FILTERS
+  value: Jun 2020
+  detail: Ethnicity filters disabled across both applications
+- label: ASSESSMENT
+  value: Partial
+  detail: An improvement on one mechanism, not absolution
+source_refs:
+- office-of-the-new-york-state-attorney-general-2019-81a4c64
+- henderson-t-2020-june-removing-the-ethnicity-filter-is-ffa2d2a
 related:
-  - "23"
-  - "25"
+- '23'
+- '25'
 ---
-
 ## Context
 
 Doing better on one mechanism does not make a platform clean.

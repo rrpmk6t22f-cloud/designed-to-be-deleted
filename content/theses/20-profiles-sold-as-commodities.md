@@ -1,37 +1,33 @@
 ---
-title: "Profiles circulate as commodities on a resale market."
-slug: "profiles-sold-as-commodities"
+title: Profiles circulate as commodities on a resale market.
+slug: profiles-sold-as-commodities
 number: 20
 weight: 20
-part: "PART TWO — THE GRID"
-summary: "One million people. One hundred and thirty-six euros."
-description: "Working with Tactical Tech, the Barcelona-based artist Joana Moll purchased approximately one million dating profiles from the broker USDate for €136."
+part: PART TWO — THE GRID
+summary: One million people. One hundred and thirty-six euros.
+description: Working with Tactical Tech, the Barcelona-based artist Joana Moll purchased
+  approximately one million dating profiles from the broker USDate for €136.
 draft: false
 traits:
-  - label: "PROFILES"
-    value: "~1M"
-    detail: "Dating profiles purchased from a commercial data broker"
-  - label: "PHOTOGRAPHS"
-    value: "~5M"
-    detail: "Photographs included in the acquired data package"
-  - label: "PRICE"
-    value: "€136"
-    detail: "Total price paid for the complete dataset"
-  - label: "PER PROFILE"
-    value: "€0.000136"
-    detail: "Approximate commercial value assigned to one profile"
-citations:
-  - label: "Moll, J., & Tactical Tech. (2018). The dating brokers: An autopsy of online love. https://datadating.tacticaltech.org"
-    url: "https://datadating.tacticaltech.org"
-    note: "TACTICAL ARTWORK / INVESTIGATION"
-  - label: "Zuboff, S. (2019). The age of surveillance capitalism. PublicAffairs."
-    url: ""
-    note: "TACTICAL ARTWORK / INVESTIGATION"
+- label: PROFILES
+  value: "~1M"
+  detail: Dating profiles purchased from a commercial data broker
+- label: PHOTOGRAPHS
+  value: "~5M"
+  detail: Photographs included in the acquired data package
+- label: PRICE
+  value: "€136"
+  detail: Total price paid for the complete dataset
+- label: PER PROFILE
+  value: "€0.000136"
+  detail: Approximate commercial value assigned to one profile
+source_refs:
+- moll-j-tactical-tech-2018-the-dating-brokers-an-cfe782b
+- zuboff-s-2019-the-age-of-surveillance-capitalism-1e51525
 related:
-  - "19"
-  - "21"
+- '19'
+- '21'
 ---
-
 ## Context
 
 One million people. One hundred and thirty-six euros.

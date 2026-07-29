@@ -1,34 +1,33 @@
 ---
-title: "The interface is optional, and some products refuse the grid entirely."
-slug: "the-grid-is-optional"
+title: The interface is optional, and some products refuse the grid entirely.
+slug: the-grid-is-optional
 number: 25
 weight: 25
-part: "PART THREE — REFUSALS"
-summary: "No swipe. No ranked grid. Text before photographs."
-description: "Lex was launched in November 2019 by Kell Rakowski, out of an Instagram account that reproduced the personal advertisements from the back of *On Our Backs*, the queer women's magazine published between 1984 and 2006."
+part: PART THREE — REFUSALS
+summary: No swipe. No ranked grid. Text before photographs.
+description: Lex was launched in November 2019 by Kell Rakowski, out of an Instagram
+  account that reproduced the personal advertisements from the back of *On Our Backs*,
+  the queer women's magazine published between 1984 and 2006.
 draft: false
 traits:
-  - label: "LAUNCHED"
-    value: "Nov 2019"
-    detail: "Text-first queer application launched in late 2019"
-  - label: "ORIGIN"
-    value: "Personal ads"
-    detail: "Design model derived from queer personal advertisements"
-  - label: "CROWDFUNDING"
-    value: "$40K"
-    detail: "Initial community crowdfunding raised before launch"
-  - label: "LATER FUNDING"
-    value: "$1.5M / $5.6M"
-    detail: "Later institutional seed rounds expanded the company"
-citations:
-  - label: "Rakowski, K. (2019). Lex [Mobile application]. https://lex.lgbt"
-    url: "https://lex.lgbt"
-    note: "PLATFORM HISTORY"
+- label: LAUNCHED
+  value: Nov 2019
+  detail: Text-first queer application launched in late 2019
+- label: ORIGIN
+  value: Personal ads
+  detail: Design model derived from queer personal advertisements
+- label: CROWDFUNDING
+  value: "$40K"
+  detail: Initial community crowdfunding raised before launch
+- label: LATER FUNDING
+  value: "$1.5M / $5.6M"
+  detail: Later institutional seed rounds expanded the company
+source_refs:
+- rakowski-k-2019-lex-mobile-application-f1400f1
 related:
-  - "24"
-  - "26"
+- '24'
+- '26'
 ---
-
 ## Context
 
 No swipe. No ranked grid. Text before photographs.

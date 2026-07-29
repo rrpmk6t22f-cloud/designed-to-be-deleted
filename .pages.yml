@@ -1,5 +1,30 @@
 media: static/uploads
 content:
+  - name: sources
+    label: Sources
+    type: collection
+    path: content/sources
+    exclude: ["_index.md"]
+    filename: "{primary}.md"
+    view:
+      fields: [title, author_year, source_type]
+      primary: title
+      search: [title, author_year, citation, source_type]
+      sort: [title, source_type]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - { name: title, label: Short title, type: string, required: true }
+      - { name: author_year, label: Author and year, type: string, required: true }
+      - { name: citation, label: Full citation, type: text, required: true }
+      - { name: source_url, label: URL, type: string }
+      - { name: source_type, label: Source type, type: string, required: true }
+      - name: thesis_numbers
+        label: Referenced by theses
+        type: string
+        list: true
+      - { name: draft, label: Draft, type: boolean, default: false }
   - name: theses
     label: Theses
     type: collection
@@ -23,14 +48,15 @@ content:
         fields:
           - { name: label, label: Label, type: string }
           - { name: value, label: Value, type: string }
-      - name: citations
-        label: Citations
-        type: object
-        list: true
-        fields:
-          - { name: label, label: Source label, type: string }
-          - { name: url, label: URL, type: string }
-          - { name: note, label: Note, type: text }
+      - name: source_refs
+        label: Sources
+        type: reference
+        options:
+          collection: sources
+          multiple: true
+          search: "title,author_year,citation,source_type"
+          value: "{name}"
+          label: "{author_year} {title}"
       - name: related
         label: Related thesis numbers
         type: string
@@ -38,4 +64,3 @@ content:
       - { name: description, label: SEO description, type: text }
       - { name: draft, label: Draft, type: boolean, default: false }
       - { name: body, label: Full thesis, type: rich-text, required: true }
-

@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article class="source-page">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="{{ "sources/" | relURL }}">All sources</a><span aria-hidden="true">/</span><span>{{ .Params.source_type }}</span>
+  </nav>
+  <p class="eyebrow">{{ .Params.author_year }}</p>
+  <h1>{{ .Title }}</h1>
+  <blockquote>{{ .Params.citation }}</blockquote>
+  {{ with .Params.source_url }}<a class="button" href="{{ . }}" rel="noopener noreferrer">Open original source ↗</a>{{ end }}
+  <section class="source-used">
+    <h2>Referenced by</h2>
+    <div class="source-thesis-links">
+      {{ range .Params.thesis_numbers }}
+        {{ $number := . }}
+        {{ range where site.RegularPages "Section" "theses" }}
+          {{ if eq (printf "%02d" .Params.number) $number }}<a href="{{ .RelPermalink }}"><span>Thesis {{ $number }}</span><strong>{{ .Title }}</strong></a>{{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+</article>
+{{ end }}
