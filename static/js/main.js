@@ -1,3 +1,42 @@
+const gate = document.querySelector("#access-gate");
+const gateForm = document.querySelector("#gate-form");
+const gatePassword = document.querySelector("#gate-password");
+const gateError = document.querySelector("#gate-error");
+const accessHash = "9c4e199e182ab4b8967b57ddda37fd47354f47bce56ffba86a33016b45820e89";
+const accessKey = "dtbd-access";
+
+function openGate() {
+  document.body.classList.remove("gate-pending");
+  document.body.classList.add("gate-open");
+  gate?.setAttribute("aria-hidden", "true");
+}
+
+if (sessionStorage.getItem(accessKey) === "granted") {
+  openGate();
+} else {
+  gatePassword?.focus();
+}
+
+gateForm?.addEventListener("submit", async (event) => {
+  event.preventDefault();
+  const bytes = new TextEncoder().encode(gatePassword.value);
+  const digest = await crypto.subtle.digest("SHA-256", bytes);
+  const candidate = [...new Uint8Array(digest)]
+    .map((byte) => byte.toString(16).padStart(2, "0"))
+    .join("");
+
+  if (candidate === accessHash) {
+    sessionStorage.setItem(accessKey, "granted");
+    openGate();
+    return;
+  }
+
+  gateError.hidden = false;
+  gatePassword.value = "";
+  gatePassword.setAttribute("aria-invalid", "true");
+  gatePassword.focus();
+});
+
 const search = document.querySelector("#thesis-search");
 const clear = document.querySelector("#clear-search");
 const cards = [...document.querySelectorAll(".thesis-card")];

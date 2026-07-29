@@ -2,7 +2,7 @@
 title: The age of surveillance capitalism
 author_year: Zuboff, S. (2019).
 citation: Zuboff, S. (2019). The age of surveillance capitalism. PublicAffairs.
-source_url: ''
+source_url: https://www.hachettebookgroup.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395700/
 source_type: TACTICAL ARTWORK / INVESTIGATION
 thesis_numbers:
 - '20'
