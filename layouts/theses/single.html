@@ -4,6 +4,16 @@
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="{{ site.Home.RelPermalink }}#theses">All theses</a><span aria-hidden="true">/</span><span>{{ printf "%02d" .Params.number }}</span>
     </nav>
+    <button
+      class="share-button"
+      type="button"
+      data-share-title="{{ .Title }}"
+      data-share-text="{{ .Params.summary }}"
+      aria-label="Share thesis {{ printf "%02d" .Params.number }}"
+    >
+      <span>Share thesis</span>
+      <span aria-hidden="true">↗</span>
+    </button>
     <p class="thesis-number">Thesis {{ printf "%02d" .Params.number }} / 31</p>
     <h1>{{ .Title }}</h1>
     <p class="dek">{{ .Params.summary }}</p>
@@ -59,4 +69,3 @@
   </nav>
 </article>
 {{ end }}
-

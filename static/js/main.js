@@ -4,6 +4,7 @@ const cards = [...document.querySelectorAll(".thesis-card")];
 const count = document.querySelector("#result-count");
 const empty = document.querySelector("#empty-state");
 const filterButtons = [...document.querySelectorAll(".filter-button")];
+const shareButton = document.querySelector(".share-button");
 let activeFilter = "all";
 
 function filterCards() {
@@ -37,4 +38,31 @@ filterButtons.forEach((button) => {
     });
     filterCards();
   });
+});
+
+shareButton?.addEventListener("click", async () => {
+  const label = shareButton.querySelector("span");
+  const shareData = {
+    title: shareButton.dataset.shareTitle,
+    text: shareButton.dataset.shareText,
+    url: window.location.href,
+  };
+
+  try {
+    if (navigator.share) {
+      await navigator.share(shareData);
+      return;
+    }
+    await navigator.clipboard.writeText(shareData.url);
+    label.textContent = "Link copied";
+    shareButton.classList.add("is-copied");
+    window.setTimeout(() => {
+      label.textContent = "Share thesis";
+      shareButton.classList.remove("is-copied");
+    }, 1800);
+  } catch (error) {
+    if (error.name !== "AbortError") {
+      label.textContent = "Copy failed";
+    }
+  }
 });
